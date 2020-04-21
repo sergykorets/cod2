@@ -6,4 +6,4 @@ default: &default
 
 development:
   <<: *default
-  database: it_racing_development
+  database: cod2_development

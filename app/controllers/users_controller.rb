@@ -5,25 +5,19 @@ class UsersController < ApplicationController
     user = User.find_by(id: params[:id])
     @info = {
         name: user.name,
-        company: user.company,
         avatar: user.avatar.url,
-        specialization: user.specialization,
-        wins: user.places(1),
-        podiums: user.places(3),
-        finals: user.places(10),
-        best_laps: user.best_laps,
-        championships: user.championships,
-        best_place: user.edge_place('min'),
-        worst_place: user.edge_place('max'),
-        races_count: user.races_count,
-        races: user.races.past.order('date DESC').map do |r|
-          {
-              id: r.id,
-              number: r.number,
-              season: r.season,
-              picture: r.photos&.first&.picture.present? ? r.photos&.first&.picture : r.photos&.first&.picture_url
-          }
-        end
+        average_damage: user.average_damage,
+        favorite_body_target: user.favorite_body_target,
+        favorite_weapon: user.favorite_weapon,
+        headshots: user.headshots,
+        rounds: user.rounds.count,
+        average_kills_per_round: user.average_kills_per_round,
+        kill_death_rate: user.kill_death_rate,
+        average_suicides_per_round: user.average_suicides_per_round,
+        average_self_damage_per_round: user.average_self_damage_per_round,
+        grenades: user.grenades,
+        rating: user.rating,
+
     }
   end
 end

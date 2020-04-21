@@ -1,28 +1,25 @@
 class PagesController < ApplicationController
 
   def index
-    @next_race_date = Banner.first&.next_race_date&.strftime('%d.%m.%Y %H:%M')
-    @admin = current_user&.admin?
-    @logged = current_user.present?
-  end
-
-  def standings
-    @admin = current_user&.admin?
-    @standings = User.in_season(params[:season] || '2019').map do |user|
+    @users = User.all.map do |user|
       { id: user.id,
-        racer: user.name,
-        company: user.company,
-        specialization: user.specialization,
-        points: user.points_in_season(params[:season] || '2019')
+        name: user.name,
+        average_damage: user.average_damage,
+        favorite_body_target: user.favorite_body_target,
+        favorite_weapon: user.favorite_weapon,
+        rounds: user.rounds.count,
+        average_suicides_per_round: user.average_suicides_per_round,
+        average_self_damage_per_round: user.average_self_damage_per_round,
+        headshots: user.headshots,
+        grenades: user.grenades,
+        average_kills_per_round: user.average_kills_per_round,
+        kill_death_rate: user.kill_death_rate,
+        rating: user.rating
       }
-    end.sort_by {|s| s[:points]}.reverse
-    respond_to do |format|
-      format.html { render :standings }
-      format.json {{standings: @standings, admin: @admin }}
     end
-  end
-
-  def regulations
-
+    respond_to do |format|
+      format.html { render :index }
+      format.json {{success: true, users: @users}}
+    end
   end
 end

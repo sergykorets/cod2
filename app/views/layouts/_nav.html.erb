@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top" id="banner">
   <div class="container">
     <!-- Brand -->
-    <a class="navbar-brand" href="/"><span>IT</span> Racing</a>
+    <a class="navbar-brand" href="/"><span>CoD</span>2</a>
 
     <!-- Toggler/collapsibe Button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -11,18 +11,6 @@
     <!-- Navbar links -->
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/groups/IT.Racing" target="_blank">Facebook</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/races">Гонки</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/standings">Залік</a>
-        </li>
-<!--        <li class="nav-item">-->
-<!--          <a class="nav-link" href="/regulations">Регламент</a>-->
-<!--        </li>-->
         <% if signed_in? %>
           <li class="nav-item">
             <%= link_to "Профіль", edit_user_registration_path, class: 'nav-link' %>

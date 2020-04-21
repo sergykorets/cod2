@@ -10,46 +10,40 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20200319094949) do
+ActiveRecord::Schema.define(version: 20200420141023) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "banners", force: :cascade do |t|
-    t.datetime "next_race_date"
+  create_table "actions", force: :cascade do |t|
+    t.integer "action_type"
+    t.integer "damaged_user_id"
+    t.integer "damaging_user_id"
+    t.integer "weapon_id"
+    t.integer "action_damagetype"
+    t.string "time_string", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer "damage"
+    t.integer "round_id"
   end
 
-  create_table "photos", force: :cascade do |t|
-    t.string "picture_file_name"
-    t.string "picture_content_type"
-    t.integer "picture_file_size"
-    t.datetime "picture_updated_at"
-    t.string "picture_url"
-    t.integer "race_id"
-    t.string "comment"
-  end
-
-  create_table "race_standings", force: :cascade do |t|
-    t.integer "place"
+  create_table "nicknames", force: :cascade do |t|
     t.integer "user_id"
-    t.integer "race_id"
     t.string "name"
-    t.string "company"
-    t.string "specialization"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.integer "qualify_group"
   end
 
-  create_table "races", force: :cascade do |t|
-    t.integer "number"
-    t.integer "season"
-    t.datetime "date"
-    t.integer "track"
-    t.integer "weather"
-    t.decimal "best_lap"
-    t.integer "best_lap_user_id"
-    t.boolean "qualify_grouped", default: false
+  create_table "rounds", force: :cascade do |t|
+    t.string "time_string_start"
+    t.string "time_string_end"
+    t.string "location"
+    t.integer "round_type"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "settings", force: :cascade do |t|
+    t.integer "last_line"
   end
 
   create_table "users", id: :serial, force: :cascade do |t|
@@ -58,8 +52,7 @@ ActiveRecord::Schema.define(version: 20200319094949) do
     t.string "first_name", null: false
     t.integer "role", default: 0, null: false
     t.string "last_name", null: false
-    t.string "company", null: false
-    t.string "specialization", null: false
+    t.decimal "rating"
     t.string "reset_password_token"
     t.datetime "reset_password_sent_at"
     t.datetime "remember_created_at"
@@ -74,13 +67,17 @@ ActiveRecord::Schema.define(version: 20200319094949) do
     t.string "avatar_content_type"
     t.integer "avatar_file_size"
     t.datetime "avatar_updated_at"
-    t.string "provider"
-    t.string "uid"
-    t.string "remote_avatar_url"
-    t.boolean "novice", default: true
-    t.text "championships", default: [], array: true
     t.index ["email"], name: "index_users_on_email", unique: true
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
+  end
+
+  create_table "weapons", force: :cascade do |t|
+    t.integer "weapon_type"
+    t.string "name"
+    t.string "image_file_name"
+    t.string "image_content_type"
+    t.integer "image_file_size"
+    t.datetime "image_updated_at"
   end
 
 end

@@ -4,25 +4,7 @@ class RegistrationsController < Devise::RegistrationsController
     @admin = current_user&.admin?
     @info = {
         name: @user.name,
-        company: @user.company,
-        avatar: @user.avatar.url,
-        specialization: @user.specialization,
-        wins: @user.places(1),
-        podiums: @user.places(3),
-        finals: @user.places(10),
-        best_laps: @user.best_laps,
-        championships: @user.championships,
-        best_place: @user.edge_place('min'),
-        worst_place: @user.edge_place('max'),
-        races_count: @user.races_count,
-        races: @user.races.past.order('date DESC').map do |r|
-          {
-              id: r.id,
-              number: r.number,
-              season: r.season,
-              picture: r.photos&.first&.picture.present? ? r.photos&.first&.picture : r.photos&.first&.picture_url
-          }
-        end
+        avatar: @user.avatar.url
     }
     super
   end

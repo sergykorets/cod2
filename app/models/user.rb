@@ -1,47 +1,21 @@
 class User < ApplicationRecord
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable and :omniauthable
-  devise :database_authenticatable, :registerable, :omniauthable,
+  devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :trackable, :validatable
 
   has_attached_file :avatar, styles: { medium: "200x200#", thumb: "100x100#" }, default_url: "/images/missing.jpg"
   validates_attachment_content_type :avatar, content_type: /\Aimage\/.*\z/
 
-  has_many :race_standings
-  has_many :races, through: :race_standings
-  has_many :best_lap_races, class_name: 'Race', foreign_key: :best_lap_user_id
+  has_many :demaged_actions, class_name: 'Action', foreign_key: :damaged_user_id
+  has_many :demaging_actions, class_name: 'Action', foreign_key: :damaging_user_id
+  #has_many :damaged_users, class_name: 'User', through: :demaged_actions
+  #has_many :demaging_users, class_name: 'User', through: :demaging_actions
+  has_many :weapons, through: :demaging_actions
+  has_many :nicknames
+  has_many :rounds, -> { distinct }, through: :demaging_actions
 
-  enum role: [:racer, :admin, :manager]
-
-  scope :in_season, ->(season) {joins(:races).where(races: {season: season}).uniq}
-
-  validates_presence_of :first_name, :last_name, :company, :specialization
-
-  def self.find_for_oauth(auth)
-    user = User.where(uid: auth.uid, provider: auth.provider).first
-    unless user
-      user = User.create(
-        uid:      auth.uid,
-        provider: auth.provider,
-        email:    auth.info.email,
-        name:     auth.info.name,
-        password: Devise.friendly_token[0, 20],
-        remote_avatar_url: auth.info.image)
-    end
-    user
-  end
-
-  def self.new_with_session(params, session)
-    super.tap do |user|
-      if data = session["devise.facebook_data"] && session["devise.facebook_data"]["extra"]["raw_info"]
-        user.email = data["email"] if user.email.blank?
-      end
-    end
-  end
-
-  def password_required?
-    super && provider.blank?
-  end
+  enum role: [:player, :admin]
 
   def update_without_password(params, *options)
     if params[:password].blank?
@@ -53,61 +27,63 @@ class User < ApplicationRecord
     result
   end
 
-  def soft_delete
-    update_attribute(:deleted_at, Time.current)
-  end
-
   def name
     "#{first_name} #{last_name}"
   end
 
-  def points_in_season(season)
-    sum = []
-    race_standings.joins(:race).where(races: {season: season}).each do |s|
-      sum << s.points(season, s.place)
-    end
-    if sum.compact.any?
-      season_races = Race.in_season(season).count
-      best_lap_points = best_lap_races.in_season(season).count
-      if (sum.size < season_races) || season_races == 1
-        sum.sum + best_lap_points
-      else
-        sum.sum + best_lap_points - sum.min
-      end
-    else
-      0
-    end
+  def average_damage
+    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade)
+    actions.any? ? actions.sum(:damage) / actions.count : 0
   end
 
-  def places(place, season = 'all')
-    if season == 'all'
-      race_standings.where("race_standings.place <= ?", place).count
-    else
-      race_standings.joins(:race).where(races: {season: season}).where("race_standings.place <= ?", place).count
-    end
+  def favorite_body_target
+    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade).group(:action_damagetype).count
+    actions.key(actions.values.max)
   end
 
-  def best_laps(season = 'all')
-    if season == 'all'
-      best_lap_races.count
-    else
-      best_lap_races.where(races: {season: season}).count
-    end
+  def favorite_weapon
+    actions = weapons.group(:name).count
+    actions.key(actions.values.max)
   end
 
-  def edge_place(place, season = 'all')
-    if season == 'all'
-      race_standings.pluck(:place).compact.public_send(place)
-    else
-      race_standings.joins(:race).where(races: {season: season}).pluck(:place).compact.public_send(place)
-    end
+  def headshots
+    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: [:grenade, :melee]).count.to_d
+    headshots = demaging_actions.where(action_type: [:kill, :damage], action_damagetype: :head).count.to_d
+    ((headshots / actions) * 100).round(2)
   end
 
-  def races_count(season = 'all')
-    if season == 'all'
-      races.past.count
-    else
-      races.past.where(season: season).count
-    end
+  def average_kills_per_round
+    actions = demaging_actions.where(action_type: :kill).count.to_d
+    plays = rounds.count.to_d
+    (actions / plays).round(2)
   end
+
+  def kill_death_rate
+    kill_actions = demaging_actions.where(action_type: :kill).count.to_d
+    death_actions = demaged_actions.where(action_type: :kill).count.to_d
+    ((kill_actions / death_actions) * 100).round(2)
+  end
+
+  def average_suicides_per_round
+    plays = rounds.count.to_d
+    suicides = demaged_actions.suicide.count.to_d
+    ((suicides / plays) * 100).round(2)
+  end
+
+  def average_self_damage_per_round
+    plays = rounds.count.to_d
+    self_damages = demaged_actions.self_damage.sum(:damage).to_d
+    ((self_damages / plays)).round(2)
+  end
+
+  def grenades
+    actions = demaging_actions.where(action_type: [:kill, :damage], action_damagetype: :grenade).sum(:damage).to_d
+    plays = rounds.count.to_d
+    ((actions / plays)).round(2)
+  end
+
+  def rating
+    average_damage + headshots + kill_death_rate - average_suicides_per_round - average_self_damage_per_round || 0
+  end
+
 end

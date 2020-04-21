@@ -349,27 +349,37 @@
 .profile-stat:after {
   color: #999;
 }
-.works::after {
-  content: "Перемоги";
+.average_damage::after {
+  content: "Середній урон при попаданні";
 }
-.followers::after {
-  content: "Подіуми";
+.favorite_body_target::after {
+  content: "Найчастіші попадання";
 }
-.following::after {
-  content: "Фінали";
+.favorite_weapon::after {
+  content: "Улюблена зброя";
 }
-.best-laps::after {
-  content: "Шв. кола";
+.headshots::after {
+  content: "Хедшоти";
 }
-.best-place::after {
-  content: "Мін. позиція";
+.rounds::after {
+  content: "Раунди";
 }
-.worst-place::after {
-  content: "Макс. позиція";
+.average_kills_per_round::after {
+  content: "Середня к-ть вбивств за раунд";
 }
-.races-count::after {
-  content: "Гонки";
+.kill_death_rate::after {
+  content: "Вбивства/смерті";
 }
+.average_suicides_per_round::after {
+  content: "Імовірність суіциду за раунд";
+}
+.average_self_damage_per_round::after {
+  content: "Середня к-ть самоурону за раунд";
+}
+.grenades::after {
+  content: "Середня к-ть урону гранатою за раунд";
+}
+
 .image {
   width: 86%;
   height: 200px;

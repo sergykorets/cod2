@@ -35,35 +35,30 @@ export default class UserInfo extends React.Component {
               <div className="col-12">
                 <div className="rela-block container">
                   <div className="rela-block profile-card">
-                    {user.championships.map((c, i) => {
-                      return (
-                        <i title={`Чемпіон сезону ${c}`} className="fa fa-star" key={i}/>
-                      )})}
                     <div className="profile-pic" id="profile_pic" style={{backgroundImage: `url(${user.avatar})`}}/>
                     <div className="rela-block profile-name-container">
                       <div className="rela-block user-name" id="user_name">{user.name}</div>
-                      <div className="rela-block user-desc" id="user_description">{user.company} ({user.specialization})</div>
+                      <div className="rela-block user-desc" id="user_description">Рейтинг: ({user.rating})</div>
                     </div>
                     <div className="rela-block profile-card-stats">
-                      <div className="floated profile-stat works">{user.wins}<br/></div>
-                      <div className="floated profile-stat followers">{user.podiums}<br/></div>
-                      <div className="floated profile-stat following">{user.finals}<br/></div>
-                      <div className="floated profile-stat best-laps">{user.best_laps}<br/></div>
+                      <div className="floated profile-stat average_damage">{user.average_damage}<br/></div>
+                      <div className="floated profile-stat favorite_body_target">{user.favorite_body_target}<br/></div>
+                      <div className="floated profile-stat favorite_weapon">{user.favorite_weapon}<br/></div>
+                      <div className="floated profile-stat headshots">{user.headshots} %<br/></div>
                     </div>
                     <div className="rela-block profile-card-stats">
-                      <div className="floated profile-stat races-count">{user.races_count}<br/></div>
-                      <div className="floated profile-stat best-place">{user.best_place || 0}<br/></div>
-                      <div className="floated profile-stat worst-place">{user.worst_place || 0}<br/></div>
+                      <div className="floated profile-stat rounds">{user.rounds}<br/></div>
+                      <div className="floated profile-stat average_kills_per_round">{user.average_kills_per_round}<br/></div>
+                      <div className="floated profile-stat kill_death_rate">{user.kill_death_rate} %<br/></div>
+                      <div className="floated profile-stat average_suicides_per_round">{user.average_suicides_per_round} %<br/></div>
+                    </div>
+                    <div className="rela-block profile-card-stats">
+                      <div className="floated profile-stat average_self_damage_per_round">{user.average_self_damage_per_round}<br/></div>
+                      <div className="floated profile-stat grenades">{user.grenades}<br/></div>
                     </div>
                   </div>
                   <div className="rela-block content">
-                    <Masonry breakpointCols={{default: this.props.edit_page ? 2 : 4, 1199:  this.props.edit_page ? 1 : 3, 991:  this.props.edit_page ? 1 : 2, 750: 1}}>
-                      {user.races.map((r,i) => {return(
-                        <div onClick={() => this.handleClick(`/races/${r.id}`)} title={`${r.number} етап сезону ${r.season}`} key={i} style={{backgroundImage: `url(${r.picture})`}} className="rela-inline image">
-                          <span className='race-title'>{`${r.number} етап сезону ${r.season}`}</span>
-                        </div>
-                      )})}
-                    </Masonry>
+
                   </div>
                 </div>
               </div>
