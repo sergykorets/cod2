@@ -1,7 +1,7 @@
 class ParseService
   def self.start
     last_line = Setting.first.last_line || 0
-    File.open("/Users/vandal/Projects/cod2/games_mp.log").each_with_index do |line, i|
+    File.open("#{Rails.root}/games_mp.log").each_with_index do |line, i|
       next if i < last_line
       puts line
       line.encode!('UTF-8', 'UTF-8', :invalid => :replace)
@@ -84,7 +84,7 @@ class ParseService
 
   def self.get_nicknames
     last_line = Setting.first.last_line || 0
-    File.open("/Users/vandal/Projects/cod2/games_mp.log").each_with_index do |line, i|
+    File.open("#{Rails.root}/games_mp.log").each_with_index do |line, i|
       next if i < last_line
       line.encode!('UTF-8', 'UTF-8', :invalid => :replace)
       if line.include?('D;0;') || line.include?('K;0;')
