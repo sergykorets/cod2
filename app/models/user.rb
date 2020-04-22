@@ -33,11 +33,15 @@ class User < ApplicationRecord
 
   def average_damage
     actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade)
-    actions.any? ? actions.sum(:damage) / actions.count : 0
+    actions.any? ? (actions.sum(:damage).to_d / actions.count.to_d).round(2) : 0
+  end
+
+  def favorite_body_targets
+    demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade).group(:action_damagetype).count
   end
 
   def favorite_body_target
-    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade).group(:action_damagetype).count
+    actions = favorite_body_targets
     actions.key(actions.values.max)
   end
 
@@ -47,7 +51,7 @@ class User < ApplicationRecord
   end
 
   def headshots
-    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: [:grenade, :melee]).count.to_d
+    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade).count.to_d
     headshots = demaging_actions.where(action_type: [:kill, :damage], action_damagetype: :head).count.to_d
     ((headshots / actions) * 100).round(2)
   end

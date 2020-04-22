@@ -66,4 +66,84 @@
     width: 90%;
   }
 }
+.body-parts {
+  position: relative;
+  &.head {
+    top: 2rem;
+  }
+  &.neck {
+    top: 4rem;
+    left: 11.7rem;
+  }
+  &.torso_upper {
+    top: 7rem;
+    left: -6.5rem;
+  }
+  &.torso_lower {
+    top: 12rem;
+    left: -9.7rem;
+  }
+  &.right_arm_lower {
+    top: 13rem;
+    left: 2.5rem;
+  }
+  &.right_leg_lower {
+    top: 24rem;
+    left: 19.5rem;
+  }
+  &.right_leg_upper {
+    top: 19rem;
+    left: 16.5rem;
+  }
+  &.right_arm_upper {
+    top: 8rem;
+    left: 12rem;
+  }
+  &.left_leg_lower {
+    top: 24rem;
+    left: 18rem;
+  }
+  &.left_arm_lower {
+    top: 13rem;
+    left: 12rem;
+  }
+  &.right_hand {
+    top: 16rem;
+    left: -4rem;
+  }
+  &.left_foot {
+    top: 29rem;
+    left: -7rem;
+  }
+  &.left_leg_upper {
+    top: 19rem;
+    left: -9rem;
+  }
+  &.left_hand {
+    top: 16rem;
+    left: -9.5rem;
+  }
+  &.left_arm_upper {
+    top: 8rem;
+    left: -14rem;
+  }
+  &.right_foot {
+    top: 29rem;
+    left: -18.6rem;
+  }
+  &.melee {
+    top: 0;
+    left: -30rem;
+  }
+  &.melee {
+    content: 'Прикладом: '
+  }
+}
+
+.human-body {
+  height: 490px;
+  background-image: url('https://images.vexels.com/media/users/3/141885/isolated/preview/cc2dcc350d1772f24bee9e0e55e3029a-human-body-man-by-vexels.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
