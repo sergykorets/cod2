@@ -90,8 +90,8 @@ class ParseService
       if line.include?('D;0;') || line.include?('K;0;')
         scanned = line.split(';')
         p scanned
-        User.find(40).nicknames.create(name: scanned[4])
-        User.find(40).nicknames.create(name: scanned[8])
+        User.last.nicknames.create(name: scanned[4])
+        User.last.nicknames.create(name: scanned[8])
       end
     end
   end
