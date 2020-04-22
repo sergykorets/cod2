@@ -68,75 +68,69 @@
 }
 .body-parts {
   position: relative;
+  display: block;
   &.head {
-    top: 2rem;
+    top: -11rem;
+    left: 0.5rem;
   }
   &.neck {
-    top: 4rem;
-    left: 11.7rem;
+    top: -2.5rem;
+    left: 0.7rem;
   }
   &.torso_upper {
-    top: 7rem;
-    left: -6.5rem;
+    top: -9rem;
+    left: 0.5rem;
   }
   &.torso_lower {
-    top: 12rem;
-    left: -9.7rem;
+    top: -6rem;
+    left: 0.4rem;
   }
   &.right_arm_lower {
-    top: 13rem;
-    left: 2.5rem;
+    top: 4rem;
+    left: -5.5rem;
   }
   &.right_leg_lower {
     top: 24rem;
-    left: 19.5rem;
+    left: -3.5rem;
   }
   &.right_leg_upper {
-    top: 19rem;
-    left: 16.5rem;
+    top: 18rem;
+    left: -4.5rem;
   }
   &.right_arm_upper {
-    top: 8rem;
-    left: 12rem;
+    top: 5rem;
+    left: -5rem;
   }
   &.left_leg_lower {
-    top: 24rem;
-    left: 18rem;
+    top: 19rem;
+    left: 5rem;
   }
   &.left_arm_lower {
-    top: 13rem;
-    left: 12rem;
+    top: 2.5rem;
+    left: 7rem;
   }
   &.right_hand {
-    top: 16rem;
-    left: -4rem;
-  }
-  &.left_foot {
-    top: 29rem;
+    top: 5rem;
     left: -7rem;
   }
+  &.left_foot {
+    top: 15rem;
+    left: 4rem;
+  }
   &.left_leg_upper {
-    top: 19rem;
-    left: -9rem;
+    left: 5rem;
   }
   &.left_hand {
-    top: 16rem;
-    left: -9.5rem;
+    top: -5rem;
+    left: 7.5rem;
   }
   &.left_arm_upper {
-    top: 8rem;
-    left: -14rem;
+    top: -14.5rem;
+    left: 6rem;
   }
   &.right_foot {
-    top: 29rem;
-    left: -18.6rem;
-  }
-  &.melee {
-    top: 0;
-    left: -30rem;
-  }
-  &.melee {
-    content: 'Прикладом: '
+    top: 5rem;
+    left: -3.6rem;
   }
 }
 
