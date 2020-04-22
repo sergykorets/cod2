@@ -79,7 +79,7 @@ class ParseService
         Round.last.update(time_string_end: time_string_end)
       end
     end
-    Setting.first.update(last_line: File.foreach("/Users/vandal/Projects/cod2/games_mp.log").inject(0) {|c, line| c+1})
+    Setting.first.update(last_line: File.foreach("#{Rails.root}/games_mp.log").inject(0) {|c, line| c+1})
   end
 
   def self.get_nicknames
