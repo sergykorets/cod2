@@ -53,8 +53,8 @@ class User < ApplicationRecord
   end
 
   def average_kills_per_round
-    actions = demaging_actions.where(action_type: :kill).count.to_d
-    plays = rounds.count.to_d
+    actions = demaging_actions.joins(:round).where(actions: {action_type: :kill}).where.not(rounds: {round_type: :sd}).count.to_d
+    plays = rounds.where.not(round_type: :sd).count.to_d
     (actions / plays).round(2)
   end
 
