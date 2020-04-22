@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
 
   def index
-    @users = User.all.map do |user|
+    @users = User.where.not(role: :admin).map do |user|
       { id: user.id,
         name: user.name,
         average_damage: user.average_damage,
