@@ -17,7 +17,7 @@ class UsersController < ApplicationController
         average_self_damage_per_round: user.average_self_damage_per_round,
         grenades: user.grenades,
         rating: user.rating,
-        favorite_body_targets: user.favorite_body_targets,
+        favorite_body_targets: user.favorite_body_targets.sort.to_h,
 
     }
   end

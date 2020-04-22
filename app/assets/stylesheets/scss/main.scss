@@ -70,71 +70,73 @@
   position: relative;
   display: block;
   &.head {
-    top: -11rem;
+    top: 1.5rem;
     left: 0.5rem;
   }
   &.neck {
-    top: -2.5rem;
+    top: -7.5rem;
     left: 0.7rem;
   }
   &.torso_upper {
-    top: -9rem;
+    top: -17rem;
     left: 0.5rem;
   }
   &.torso_lower {
-    top: -6rem;
+    top: -10rem;
     left: 0.4rem;
   }
   &.right_arm_lower {
-    top: 4rem;
+    top: -0.5rem;
     left: -5.5rem;
   }
   &.right_leg_lower {
-    top: 24rem;
+    top: 4.8rem;
     left: -3.5rem;
   }
   &.right_leg_upper {
-    top: 18rem;
+    top: -2.2rem;
     left: -4.5rem;
   }
   &.right_arm_upper {
-    top: 5rem;
+    top: -6.8rem;
     left: -5rem;
   }
   &.left_leg_lower {
-    top: 19rem;
+    top: 16rem;
     left: 5rem;
   }
   &.left_arm_lower {
-    top: 2.5rem;
+    top: 10.5rem;
     left: 7rem;
   }
   &.right_hand {
-    top: 5rem;
+    top: -1.2rem;
     left: -7rem;
   }
   &.left_foot {
-    top: 15rem;
+    top: 24em;
     left: 4rem;
   }
   &.left_leg_upper {
+    top: 9rem;
     left: 5rem;
   }
   &.left_hand {
-    top: -5rem;
+    top: 10rem;
     left: 7.5rem;
   }
   &.left_arm_upper {
-    top: -14.5rem;
+    top: 4.5rem;
     left: 6rem;
   }
   &.right_foot {
-    top: 5rem;
+    top: 12.7rem;
     left: -3.6rem;
   }
 }
 
 .human-body {
+  position: relative;
   height: 490px;
   background-image: url('https://images.vexels.com/media/users/3/141885/isolated/preview/cc2dcc350d1772f24bee9e0e55e3029a-human-body-man-by-vexels.png');
   background-repeat: no-repeat;
