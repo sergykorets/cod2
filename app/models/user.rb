@@ -83,7 +83,7 @@ class User < ApplicationRecord
   end
 
   def rating
-    average_damage + headshots + kill_death_rate - average_suicides_per_round - average_self_damage_per_round || 0
+    average_damage + headshots*5 + kill_death_rate/2 + average_kills_per_round*5 + rounds.count/10 + grenades/5 - average_suicides_per_round - average_self_damage_per_round || 0
   end
 
 end

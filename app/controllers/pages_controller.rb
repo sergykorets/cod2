@@ -14,7 +14,7 @@ class PagesController < ApplicationController
         grenades: user.grenades,
         average_kills_per_round: user.average_kills_per_round,
         kill_death_rate: user.kill_death_rate,
-        rating: user.rating
+        rating: user.rating.round(2)
       }
     end
     respond_to do |format|
