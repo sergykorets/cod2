@@ -49296,3 +49296,2205 @@
 188:26 Q;0;1;Ibragim
 188:29 ShutdownGame:
 188:29 ------------------------------------------------------------
+188:29 ------------------------------------------------------------
+188:29 InitGame: \g_antilag\1\g_gametype\dm\gamename\Call of Duty 2\mapname\mp_downtown\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+188:30 J;0;0;Petro
+199:25 ShutdownGame:
+199:25 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_antilag\1\g_gametype\dm\gamename\Call of Duty 2\mapname\mp_rust\protocol\118\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+  0:00 J;0;0;Petro
+  5:58 J;0;1;Ibragim
+ 12:40 J;0;2;Chelsea
+ 13:06 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 13:07 D;0;2;allies;Chelsea;0;1;axis;Ibragim;tt30_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 13:07 D;0;2;allies;Chelsea;0;1;axis;Ibragim;tt30_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 13:07 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 13:13 D;0;2;allies;Chelsea;0;1;axis;Ibragim;tt30_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 13:13 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 14:47 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 14:47 D;0;1;axis;Ibragim;;-1;world;;none;7;MOD_FALLING;none
+ 14:52 K;0;1;;Ibragim;0;2;;Chelsea;frag_grenade_british_mp;153;MOD_GRENADE_SPLASH;none
+ 14:58 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+ 15:09 D;0;1;axis;Ibragim;;-1;world;;none;9;MOD_FALLING;none
+ 15:22 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 15:28 Weapon;0;1;Ibragim;m1carbine_mp
+ 15:43 D;0;2;allies;Chelsea;0;1;axis;Ibragim;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 15:43 D;0;2;allies;Chelsea;0;1;axis;Ibragim;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 15:47 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 15:55 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 16:11 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 16:20 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 16:22 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 16:28 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+ 16:36 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 16:43 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 16:44 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 17:01 Weapon;0;2;Chelsea;m1carbine_mp
+ 17:01 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 17:19 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 17:22 Weapon;0;1;Ibragim;frag_grenade_british_mp
+ 17:26 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 17:27 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 17:29 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 17:33 Weapon;0;2;Chelsea;m1carbine_mp
+ 17:46 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 17:55 D;0;2;allies;Chelsea;0;1;axis;Ibragim;tt30_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 17:55 D;0;2;allies;Chelsea;0;1;axis;Ibragim;tt30_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 17:55 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 17:56 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 17:56 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 18:14 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 18:15 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 18:15 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 18:30 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 18:30 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 18:31 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 18:47 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 18:58 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 19:05 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+ 20:44 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 20:52 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 20:59 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 21:02 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 21:11 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 21:12 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 21:22 Weapon;0;1;Ibragim;frag_grenade_british_mp
+ 21:23 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 21:25 D;0;2;allies;Chelsea;0;1;axis;Ibragim;frag_grenade_german_mp;75;MOD_GRENADE_SPLASH;none
+ 21:32 D;0;1;axis;Ibragim;0;0;axis;Petro;bar_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 21:32 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 21:35 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 21:41 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 21:45 Weapon;0;2;Chelsea;m1carbine_mp
+ 21:45 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 21:55 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 21:57 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 22:03 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 22:04 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 22:04 K;0;0;;Petro;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 22:13 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 22:22 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 22:26 K;0;2;;Chelsea;0;0;;Petro;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 22:32 Weapon;0;1;Ibragim;kar98k_sniper_mp
+ 22:32 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 22:34 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 22:44 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 22:44 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 22:44 K;0;0;;Petro;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 22:49 K;0;2;;Chelsea;0;1;;Ibragim;frag_grenade_german_mp;148;MOD_GRENADE_SPLASH;none
+ 22:53 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 22:54 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 23:00 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 23:07 D;0;1;axis;Ibragim;0;0;axis;Petro;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 23:09 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 23:10 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 23:18 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+ 23:23 Weapon;0;1;Ibragim;kar98k_sniper_mp
+ 23:24 Weapon;0;0;Petro;frag_grenade_german_mp
+ 23:25 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 23:36 K;0;2;;Chelsea;0;1;;Ibragim;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 23:46 Weapon;0;1;Ibragim;m1carbine_mp
+ 23:46 Weapon;0;1;Ibragim;frag_grenade_british_mp
+ 23:47 D;0;1;axis;Ibragim;0;0;axis;Petro;frag_grenade_german_mp;72;MOD_GRENADE_SPLASH;none
+ 23:50 D;0;0;axis;Petro;0;2;allies;Chelsea;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 23:51 K;0;0;;Petro;0;2;;Chelsea;g43_mp;90;MOD_RIFLE_BULLET;right_arm_upper
+ 24:05 D;0;2;allies;Chelsea;0;0;axis;Petro;bar_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 24:06 K;0;1;;Ibragim;0;2;;Chelsea;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 24:06 D;0;2;allies;Chelsea;0;0;axis;Petro;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 24:06 K;0;2;;Chelsea;0;0;;Petro;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 24:15 D;0;0;axis;Petro;0;1;axis;Ibragim;frag_grenade_german_mp;82;MOD_GRENADE_SPLASH;none
+ 24:17 K;0;0;;Petro;0;1;;Ibragim;frag_grenade_german_mp;151;MOD_GRENADE_SPLASH;none
+ 24:24 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 24:30 D;0;2;allies;Chelsea;0;1;axis;Ibragim;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 24:30 K;0;2;;Chelsea;0;1;;Ibragim;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 24:33 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 24:39 D;0;1;axis;Ibragim;0;2;allies;Chelsea;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 24:39 D;0;1;axis;Ibragim;0;2;allies;Chelsea;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 24:40 D;0;2;allies;Chelsea;0;1;axis;Ibragim;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 24:40 K;0;1;;Ibragim;0;2;;Chelsea;g43_mp;135;MOD_HEAD_SHOT;head
+ 24:41 Weapon;0;2;Chelsea;m1carbine_mp
+ 24:44 Weapon;0;2;Chelsea;g43_mp
+ 24:45 D;0;2;allies;Chelsea;0;1;axis;Ibragim;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 24:45 D;0;1;axis;Ibragim;0;0;axis;Petro;ppsh_mp;32;MOD_PISTOL_BULLET;right_foot
+ 24:46 D;0;1;axis;Ibragim;0;0;axis;Petro;ppsh_mp;33;MOD_PISTOL_BULLET;left_leg_upper
+ 24:47 D;0;1;axis;Ibragim;0;0;axis;Petro;ppsh_mp;34;MOD_PISTOL_BULLET;right_leg_lower
+ 24:47 K;0;1;;Ibragim;0;0;;Petro;ppsh_mp;34;MOD_PISTOL_BULLET;right_leg_lower
+ 24:53 K;0;2;;Chelsea;0;0;;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_lower
+ 25:04 D;0;0;axis;Petro;0;1;axis;Ibragim;frag_grenade_german_mp;67;MOD_GRENADE_SPLASH;none
+ 25:10 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 25:10 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;228;MOD_MELEE;torso_upper
+ 25:14 Weapon;0;1;Ibragim;ppsh_mp
+ 25:17 K;0;2;;Chelsea;0;1;;Ibragim;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 25:24 Weapon;0;1;Ibragim;frag_grenade_british_mp
+ 25:27 D;0;2;allies;Chelsea;0;1;axis;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 25:28 D;0;2;allies;Chelsea;0;1;axis;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 25:28 K;0;2;;Chelsea;0;1;;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 25:36 Weapon;0;1;Ibragim;kar98k_sniper_mp
+ 25:42 K;0;1;;Ibragim;0;2;;Chelsea;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 25:54 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 25:54 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+ 25:54 K;0;2;;Chelsea;0;0;;Petro;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 26:01 K;0;1;;Ibragim;0;2;;Chelsea;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 26:02 J;0;3;Belosh59
+ 26:06 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 26:09 K;0;1;;Ibragim;0;2;;Chelsea;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+ 26:20 J;0;4;Slavon
+ 26:24 K;0;0;;Petro;0;2;;Chelsea;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+ 26:38 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 26:43 Weapon;0;1;Ibragim;frag_grenade_british_mp
+ 26:43 K;0;0;;Petro;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 26:48 D;0;1;axis;Ibragim;0;3;allies;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 26:49 D;0;1;axis;Ibragim;0;3;allies;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 26:49 K;0;1;;Ibragim;0;3;;Belosh59;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 26:49 Weapon;0;3;Belosh59;frag_grenade_german_mp
+ 26:51 D;0;1;axis;Ibragim;0;3;allies;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 26:51 D;0;1;axis;Ibragim;0;3;allies;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 26:56 Weapon;0;3;Belosh59;kar98k_sniper_mp
+ 26:57 K;0;4;;Slavon;0;2;;Chelsea;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 26:57 K;0;3;;Belosh59;0;1;;Ibragim;kar98k_sniper_mp;462;MOD_MELEE;head
+ 27:02 K;0;1;;Ibragim;0;0;;Petro;ppsh_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 27:05 Weapon;0;0;Petro;frag_grenade_british_mp
+ 27:10 D;0;0;axis;Petro;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 27:14 D;0;0;axis;Petro;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 27:14 K;0;0;;Petro;0;4;;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 27:20 D;0;1;axis;Ibragim;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 27:21 D;0;1;axis;Ibragim;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 27:21 K;0;1;;Ibragim;0;0;;Petro;ppsh_mp;27;MOD_PISTOL_BULLET;right_foot
+ 27:23 D;0;0;axis;Petro;0;4;allies;Slavon;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 27:23 K;0;0;;Petro;0;4;;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 27:30 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 27:37 K;0;4;;Slavon;0;2;;Chelsea;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 27:41 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 27:45 D;0;3;allies;Belosh59;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 27:45 K;0;3;;Belosh59;0;4;;Slavon;mp44_mp;120;MOD_HEAD_SHOT;head
+ 27:53 D;0;1;axis;Ibragim;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 27:53 D;0;1;axis;Ibragim;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 27:53 K;0;1;;Ibragim;0;2;;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 28:04 K;0;1;;Ibragim;0;2;;Chelsea;mp44_mp;120;MOD_HEAD_SHOT;head
+ 28:05 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 28:06 Weapon;0;4;Slavon;frag_grenade_british_mp
+ 28:06 D;0;4;allies;Slavon;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 28:06 D;0;4;allies;Slavon;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 28:07 K;0;4;;Slavon;0;2;;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 28:13 D;0;1;axis;Ibragim;0;0;axis;Petro;ppsh_mp;31;MOD_PISTOL_BULLET;torso_upper
+ 28:14 D;0;1;axis;Ibragim;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 28:15 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 28:16 Weapon;0;1;Ibragim;mp44_mp
+ 28:22 K;0;1;;Ibragim;0;0;;Petro;ppsh_mp;33;MOD_PISTOL_BULLET;left_leg_lower
+ 28:28 D;0;2;allies;Chelsea;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 28:29 D;0;2;allies;Chelsea;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;left_foot
+ 28:29 K;0;2;;Chelsea;0;4;;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 28:31 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_hand
+ 28:32 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_lower
+ 28:32 K;0;4;;Slavon;0;0;;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 28:35 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 28:35 Weapon;0;0;Petro;frag_grenade_british_mp
+ 28:41 D;0;0;axis;Petro;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 28:41 D;0;0;axis;Petro;0;2;allies;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 28:41 K;0;0;;Petro;0;2;;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 28:46 K;0;4;;Slavon;0;1;;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 28:51 D;0;2;allies;Chelsea;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+ 28:51 Weapon;0;1;Ibragim;mp44_mp
+ 28:51 Weapon;0;1;Ibragim;frag_grenade_british_mp
+ 28:54 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 28:54 K;0;2;;Chelsea;0;0;;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 28:58 Weapon;0;0;Petro;frag_grenade_british_mp
+ 28:58 D;0;4;allies;Slavon;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+ 28:59 D;0;4;allies;Slavon;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 29:01 K;0;4;;Slavon;0;1;;Ibragim;mp44_mp;39;MOD_RIFLE_BULLET;right_leg_upper
+ 29:05 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 29:07 Weapon;0;4;Slavon;kar98k_sniper_mp
+ 29:08 D;0;0;axis;Petro;0;2;allies;Chelsea;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 29:09 K;0;0;;Petro;0;2;;Chelsea;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 29:15 Weapon;0;1;Ibragim;mp44_mp
+ 29:17 D;0;4;allies;Slavon;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 29:17 K;0;4;;Slavon;0;1;;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 29:20 Weapon;0;2;Chelsea;frag_grenade_british_mp
+ 29:21 K;0;2;;Chelsea;0;1;;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 29:31 Weapon;0;1;Ibragim;mp44_mp
+ 29:38 D;0;4;allies;Slavon;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 29:39 D;0;4;allies;Slavon;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 29:39 K;0;4;;Slavon;0;1;;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 29:52 D;0;0;axis;Petro;0;1;axis;Ibragim;frag_grenade_german_mp;97;MOD_GRENADE_SPLASH;none
+ 29:53 Weapon;0;3;Belosh59;kar98k_sniper_mp
+ 29:54 K;0;0;;Petro;0;2;;Chelsea;mp40_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 30:00 W;;0;Ibragim
+ 30:08 Q;0;3;Belosh59
+ 30:09 J;0;5;OLEG
+ 30:10 ExitLevel: executed
+ 30:10 ShutdownGame:
+ 30:10 ------------------------------------------------------------
+ 30:10 ------------------------------------------------------------
+ 30:10 InitGame: \g_antilag\1\g_gametype\dm\gamename\Call of Duty 2\mapname\mp_rust\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+ 30:10 J;0;5;OLEG
+ 30:10 J;0;4;Slavon
+ 30:10 J;0;2;Chelsea
+ 30:10 J;0;1;Ibragim
+ 30:10 J;0;0;Petro
+ 30:21 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 30:21 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 30:25 J;0;3;Max
+ 30:36 D;0;0;axis;Petro;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 30:36 D;0;0;axis;Petro;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 30:36 K;0;0;;Petro;0;1;;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 30:39 ShutdownGame:
+ 30:39 ------------------------------------------------------------
+ 30:39 ------------------------------------------------------------
+ 30:39 InitGame: \g_antilag\1\g_gametype\dm\gamename\Call of Duty 2\mapname\mp_downtown\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+ 30:40 J;0;0;Petro
+ 30:41 J;0;5;OLEG
+ 30:41 J;0;3;Max
+ 30:42 J;0;4;Slavon
+ 30:47 J;0;1;Ibragim
+ 30:48 J;0;2;Chelsea
+ 31:03 D;0;4;axis;Slavon;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 31:03 D;0;4;axis;Slavon;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 31:03 K;0;4;;Slavon;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 31:05 K;0;3;;Max;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 31:16 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 31:16 Weapon;0;5;OLEG;mosin_nagant_sniper_mp
+ 31:17 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 31:17 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 31:18 K;0;5;;OLEG;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 31:18 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 31:18 Weapon;0;2;Chelsea;mosin_nagant_sniper_mp
+ 31:20 K;0;3;;Max;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 31:21 Weapon;0;2;Chelsea;m1carbine_mp
+ 31:35 D;0;2;allies;Chelsea;0;5;allies;OLEG;SVT40_mp;90;MOD_RIFLE_BULLET;left_arm_upper
+ 31:36 K;0;2;;Chelsea;0;5;;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 31:43 D;0;2;allies;Chelsea;0;5;allies;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 31:43 K;0;2;;Chelsea;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 31:44 D;0;0;axis;Petro;0;3;axis;Max;springfield_mp;90;MOD_RIFLE_BULLET;left_leg_lower
+ 31:45 K;0;5;;OLEG;0;1;;Ibragim;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+ 32:04 D;0;5;allies;OLEG;0;5;allies;OLEG;frag_grenade_russian_mp;65;MOD_GRENADE_SPLASH;none
+ 32:04 D;0;4;axis;Slavon;0;5;allies;OLEG;SVT40_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 32:05 K;0;4;;Slavon;0;5;;OLEG;SVT40_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 32:06 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 32:08 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 32:09 Weapon;0;5;OLEG;mosin_nagant_sniper_mp
+ 32:14 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 32:15 Weapon;0;2;Chelsea;SVT40_mp
+ 32:16 Weapon;0;2;Chelsea;m1carbine_mp
+ 32:18 Weapon;0;2;Chelsea;SVT40_mp
+ 32:20 Weapon;0;2;Chelsea;m1carbine_mp
+ 32:27 K;0;0;;Petro;0;3;;Max;frag_grenade_german_mp;173;MOD_GRENADE_SPLASH;none
+ 32:27 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 32:32 K;0;5;;OLEG;0;4;;Slavon;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+ 32:40 Weapon;0;3;Max;frag_grenade_german_mp
+ 32:40 K;0;1;;Ibragim;0;3;;Max;springfield_mp;270;MOD_HEAD_SHOT;head
+ 32:42 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 32:46 K;0;5;;OLEG;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+ 32:50 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 32:57 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 32:57 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 32:59 D;0;1;axis;Ibragim;0;4;axis;Slavon;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+ 33:05 Weapon;0;5;OLEG;kar98k_sniper_mp
+ 33:11 K;0;3;;Max;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 33:12 K;0;0;;Petro;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 33:17 K;0;1;;Ibragim;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 33:20 D;0;3;axis;Max;0;5;allies;OLEG;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;left_leg_lower
+ 33:21 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 33:26 K;0;2;;Chelsea;0;5;;OLEG;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 33:35 D;0;4;axis;Slavon;0;3;axis;Max;frag_grenade_german_mp;58;MOD_GRENADE_SPLASH;none
+ 33:41 K;0;3;;Max;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 33:44 K;0;5;;OLEG;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 33:46 say;0;4;Slavon;hh
+ 33:49 say;0;3;Max;)
+ 33:53 K;0;4;;Slavon;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 33:59 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 33:59 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 34:00 D;0;2;allies;Chelsea;0;3;axis;Max;springfield_mp;52;MOD_RIFLE_BULLET;torso_lower
+ 34:00 K;0;2;;Chelsea;0;3;;Max;mg42_bipod_stand_mp;52;MOD_RIFLE_BULLET;torso_upper
+ 34:01 J;0;6;Belosh59
+ 34:06 K;0;1;;Ibragim;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 34:07 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 34:12 Weapon;0;5;OLEG;kar98k_sniper_mp
+ 34:14 K;0;2;;Chelsea;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 34:14 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 34:21 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 34:21 D;0;2;allies;Chelsea;0;6;axis;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 34:21 D;0;2;allies;Chelsea;0;6;axis;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 34:22 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 34:22 K;0;2;;Chelsea;0;6;;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;right_arm_upper
+ 34:27 K;0;0;;Petro;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 34:32 K;0;6;;Belosh59;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 34:38 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 34:39 K;0;3;;Max;0;5;;OLEG;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 34:42 Weapon;0;2;Chelsea;springfield_mp
+ 34:47 K;0;5;;OLEG;0;6;;Belosh59;springfield_mp;151;MOD_MELEE;left_arm_lower
+ 34:49 K;0;6;;Belosh59;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+ 34:59 K;0;3;;Max;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 35:04 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 35:05 Weapon;0;5;OLEG;kar98k_sniper_mp
+ 35:10 K;0;3;;Max;0;1;;Ibragim;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+ 35:12 D;0;1;axis;Ibragim;0;3;axis;Max;frag_grenade_german_mp;82;MOD_GRENADE_SPLASH;none
+ 35:17 Weapon;0;5;OLEG;springfield_mp
+ 35:21 K;0;3;;Max;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 35:25 K;0;6;;Belosh59;0;4;;Slavon;mosin_nagant_sniper_mp;270;MOD_HEAD_SHOT;head
+ 35:26 say;0;3;Max;b
+ 35:35 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;neck
+ 35:42 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 35:43 K;0;4;;Slavon;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 35:48 D;0;6;axis;Belosh59;0;1;axis;Ibragim;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+ 35:53 K;0;6;;Belosh59;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 35:53 K;0;2;;Chelsea;0;5;;OLEG;springfield_mp;270;MOD_HEAD_SHOT;head
+ 35:58 K;0;6;;Belosh59;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:02 K;0;5;;OLEG;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 36:04 K;0;2;;Chelsea;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:08 Weapon;0;1;Ibragim;kar98k_sniper_mp
+ 36:09 Weapon;0;5;OLEG;frag_grenade_russian_mp
+ 36:09 Weapon;0;5;OLEG;m1carbine_mp
+ 36:12 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 36:13 J;0;7;Vandal
+ 36:14 K;0;2;;Chelsea;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;left_arm_upper
+ 36:16 K;0;3;;Max;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:23 K;0;6;;Belosh59;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:25 Weapon;0;5;OLEG;springfield_mp
+ 36:26 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:33 K;0;4;;Slavon;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 36:36 K;0;3;;Max;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:42 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 36:42 D;0;3;axis;Max;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;left_leg_lower
+ 36:49 K;0;3;;Max;0;7;;Vandal;SVT40_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 36:51 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 36:54 K;0;6;;Belosh59;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 36:55 Weapon;0;1;Ibragim;frag_grenade_russian_mp
+ 37:01 K;0;1;;Ibragim;0;5;;OLEG;springfield_mp;456;MOD_MELEE;head
+ 37:02 Weapon;0;7;Vandal;m1carbine_mp
+ 37:02 K;0;7;;Vandal;0;1;;Ibragim;frag_grenade_russian_mp;173;MOD_GRENADE_SPLASH;none
+ 37:12 K;0;5;;OLEG;0;1;;Ibragim;frag_grenade_german_mp;131;MOD_GRENADE_SPLASH;none
+ 37:15 K;0;1;;Ibragim;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 37:27 Weapon;0;5;OLEG;m1carbine_mp
+ 37:27 Weapon;0;5;OLEG;frag_grenade_russian_mp
+ 37:30 K;0;7;;Vandal;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 37:36 Weapon;0;5;OLEG;frag_grenade_russian_mp
+ 37:36 K;0;2;;Chelsea;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 37:40 D;0;6;axis;Belosh59;0;3;axis;Max;springfield_mp;52;MOD_RIFLE_BULLET;left_leg_upper
+ 37:40 D;0;6;axis;Belosh59;0;3;axis;Max;springfield_mp;35;MOD_RIFLE_BULLET;right_leg_lower
+ 37:41 K;0;6;;Belosh59;0;3;;Max;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+ 37:48 Weapon;0;5;OLEG;springfield_mp
+ 37:51 K;0;2;;Chelsea;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 37:56 K;0;6;;Belosh59;0;5;;OLEG;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 37:56 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 37:57 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 37:59 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 38:08 D;0;2;allies;Chelsea;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_lower
+ 38:08 D;0;2;allies;Chelsea;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 38:08 K;0;2;;Chelsea;0;7;;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 38:14 D;0;3;axis;Max;0;7;allies;Vandal;SVT40_mp;90;MOD_RIFLE_BULLET;right_arm_upper
+ 38:15 K;0;7;;Vandal;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 38:18 K;0;5;;OLEG;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 38:25 K;0;3;;Max;0;7;;Vandal;SVT40_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 38:25 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 38:29 K;0;0;;Petro;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 38:29 K;0;7;;Vandal;0;5;;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 38:31 K;0;1;;Ibragim;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 38:34 K;0;6;;Belosh59;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 38:35 D;0;7;allies;Vandal;0;5;allies;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 38:39 Weapon;0;2;Chelsea;mosin_nagant_sniper_mp
+ 38:40 K;0;6;;Belosh59;0;3;;Max;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 38:43 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;226;MOD_MELEE;torso_upper
+ 38:46 K;0;3;;Max;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+ 38:46 Weapon;0;5;OLEG;SVT40_mp
+ 38:46 Weapon;0;5;OLEG;frag_grenade_russian_mp
+ 38:47 D;0;5;allies;OLEG;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 38:47 D;0;5;allies;OLEG;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 38:47 K;0;5;;OLEG;0;7;;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 38:50 K;0;6;;Belosh59;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 38:56 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 38:56 K;0;7;;Vandal;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 38:58 Weapon;0;3;Max;frag_grenade_german_mp
+ 39:01 K;0;6;;Belosh59;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 39:02 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 39:02 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 39:02 K;0;0;;Petro;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 39:13 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 39:16 K;0;7;;Vandal;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 39:17 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 39:17 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 39:21 say;0;5;OLEG;voiceddddad
+ 39:21 D;0;4;axis;Slavon;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 39:21 K;0;4;;Slavon;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 39:23 Weapon;0;2;Chelsea;mosin_nagant_sniper_mp
+ 39:24 K;0;0;;Petro;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 39:26 D;0;1;axis;Ibragim;0;5;allies;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 39:26 Weapon;0;2;Chelsea;m1carbine_mp
+ 39:27 K;0;5;;OLEG;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 39:31 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 39:32 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 39:32 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 39:34 Weapon;0;2;Chelsea;mosin_nagant_sniper_mp
+ 39:35 Weapon;0;2;Chelsea;m1carbine_mp
+ 39:43 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 39:43 D;0;2;allies;Chelsea;0;6;axis;Belosh59;colt_mp;97;MOD_PISTOL_BULLET;head
+ 39:44 K;0;6;;Belosh59;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 39:46 K;0;2;;Chelsea;0;5;;OLEG;frag_grenade_russian_mp;55;MOD_GRENADE_SPLASH;none
+ 39:48 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 39:49 Weapon;0;7;Vandal;springfield_mp
+ 39:51 K;0;7;;Vandal;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 39:52 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 39:52 Weapon;0;5;OLEG;colt_mp
+ 39:57 Weapon;0;1;Ibragim;m1carbine_mp
+ 39:59 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 39:59 K;0;2;;Chelsea;0;5;;OLEG;SVT40_mp;135;MOD_HEAD_SHOT;head
+ 40:02 K;0;6;;Belosh59;0;3;;Max;frag_grenade_german_mp;106;MOD_GRENADE_SPLASH;none
+ 40:05 Weapon;0;5;OLEG;m1carbine_mp
+ 40:09 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 40:10 K;0;5;;OLEG;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 40:14 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 40:15 Weapon;0;2;Chelsea;m1carbine_mp
+ 40:15 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 40:19 D;0;2;allies;Chelsea;0;5;allies;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 40:21 K;0;2;;Chelsea;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 40:23 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 40:26 Weapon;0;5;OLEG;kar98k_sniper_mp
+ 40:29 K;0;4;;Slavon;0;3;;Max;frag_grenade_german_mp;132;MOD_GRENADE_SPLASH;none
+ 40:29 K;0;3;;Max;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 40:36 K;0;3;;Max;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 40:37 K;0;0;;Petro;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 40:40 D;0;5;allies;OLEG;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 40:41 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 40:41 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 40:43 K;0;5;;OLEG;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 40:53 K;0;2;;Chelsea;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 40:56 K;0;4;;Slavon;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 40:58 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 40:58 K;0;5;;OLEG;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 41:01 K;0;3;;Max;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 41:03 D;0;4;axis;Slavon;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 41:03 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 41:04 D;0;4;axis;Slavon;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 41:04 K;0;4;;Slavon;0;7;;Vandal;SVT40_mp;90;MOD_RIFLE_BULLET;left_arm_upper
+ 41:05 D;0;5;allies;OLEG;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 41:19 K;0;5;;OLEG;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;left_leg_upper
+ 41:20 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 41:21 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 41:22 D;0;2;allies;Chelsea;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 41:22 D;0;2;allies;Chelsea;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 41:22 K;0;2;;Chelsea;0;7;;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_lower
+ 41:27 K;0;0;;Petro;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 41:28 K;0;1;;Ibragim;0;3;;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 41:34 K;0;2;;Chelsea;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 41:38 K;0;7;;Vandal;0;3;;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 41:50 K;0;3;;Max;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 41:56 D;0;1;axis;Ibragim;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_foot
+ 41:57 K;0;1;;Ibragim;0;1;;Ibragim;frag_grenade_german_mp;59;MOD_GRENADE_SPLASH;none
+ 42:01 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 42:02 K;0;3;;Max;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 42:03 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 42:03 Weapon;0;7;Vandal;kar98k_sniper_mp
+ 42:05 K;0;7;;Vandal;0;0;;Petro;mosin_nagant_sniper_mp;270;MOD_HEAD_SHOT;head
+ 42:10 K;0;3;;Max;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 42:13 D;0;4;axis;Slavon;0;5;allies;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 42:14 K;0;4;;Slavon;0;5;;OLEG;SVT40_mp;90;MOD_RIFLE_BULLET;neck
+ 42:17 K;0;2;;Chelsea;0;1;;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 42:19 K;0;5;;OLEG;0;6;;Belosh59;springfield_mp;270;MOD_HEAD_SHOT;head
+ 42:27 Weapon;0;1;Ibragim;frag_grenade_russian_mp
+ 42:28 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 42:29 D;0;1;axis;Ibragim;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 42:29 K;0;1;;Ibragim;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 42:35 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_lower
+ 42:39 K;0;3;;Max;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 42:39 Weapon;0;5;OLEG;frag_grenade_russian_mp
+ 42:41 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 42:41 Weapon;0;5;OLEG;mosin_nagant_sniper_mp
+ 42:44 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:47 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:47 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:47 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:48 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:48 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:48 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:49 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:49 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:49 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:50 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:50 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:50 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:50 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:51 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:51 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:51 say;0;7;Vandal;vandal, max, belosh, petro - GER
+ 42:55 K;0;1;;Ibragim;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;left_leg_upper
+ 42:55 K;0;3;;Max;0;4;;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+ 43:02 D;0;1;axis;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 43:02 D;0;1;axis;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 43:03 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 43:03 K;0;1;;Ibragim;0;3;;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 43:08 D;0;4;axis;Slavon;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 43:09 K;0;4;;Slavon;0;3;;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 43:10 D;0;3;axis;Max;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 43:12 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 43:12 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 43:12 K;0;5;;OLEG;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 43:17 D;0;5;allies;OLEG;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 43:17 D;0;5;allies;OLEG;0;7;allies;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 43:18 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 43:18 K;0;5;;OLEG;0;7;;Vandal;SVT40_mp;45;MOD_RIFLE_BULLET;right_leg_lower
+ 43:19 K;0;7;;Vandal;0;0;;Petro;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 43:21 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 43:22 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 43:24 D;0;7;allies;Vandal;0;5;allies;OLEG;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 43:27 D;0;3;axis;Max;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 43:27 K;0;3;;Max;0;1;;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_upper
+ 43:30 K;0;6;;Belosh59;0;2;;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 43:32 K;0;5;;OLEG;0;4;;Slavon;panzerschreck_mp;173;MOD_PROJECTILE_SPLASH;none
+ 43:38 K;0;7;;Vandal;0;4;;Slavon;panzerschreck_mp;63;MOD_PROJECTILE_SPLASH;none
+ 43:40 D;0;6;axis;Belosh59;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 43:40 D;0;6;axis;Belosh59;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 43:41 K;0;6;;Belosh59;0;1;;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 43:42 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 43:42 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;35;MOD_RIFLE_BULLET;right_leg_lower
+ 43:42 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 43:42 K;0;5;;OLEG;0;3;;Max;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 43:45 K;0;2;;Chelsea;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 43:48 K;0;6;;Belosh59;0;3;;Max;mg42_bipod_stand_mp;105;MOD_HEAD_SHOT;head
+ 43:53 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 43:57 K;0;2;;Chelsea;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 44:02 K;0;2;;Chelsea;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 44:04 K;0;3;;Max;0;5;;OLEG;SVT40_mp;135;MOD_HEAD_SHOT;head
+ 44:07 K;0;2;;Chelsea;0;5;;OLEG;SVT40_mp;135;MOD_HEAD_SHOT;head
+ 44:11 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_foot
+ 44:12 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 44:13 K;0;5;;OLEG;0;3;;Max;g43_mp;90;MOD_RIFLE_BULLET;left_arm_upper
+ 44:15 K;0;6;;Belosh59;0;4;;Slavon;panzerschreck_mp;382;MOD_PROJECTILE_SPLASH;none
+ 44:21 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 44:22 D;0;4;axis;Slavon;0;3;axis;Max;frag_grenade_german_mp;64;MOD_GRENADE_SPLASH;none
+ 44:22 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 44:22 K;0;6;;Belosh59;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 44:30 K;0;3;;Max;0;4;;Slavon;panzerschreck_mp;288;MOD_PROJECTILE_SPLASH;none
+ 44:31 K;0;1;;Ibragim;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 44:51 K;0;1;;Ibragim;0;5;;OLEG;SVT40_mp;135;MOD_HEAD_SHOT;head
+ 44:56 K;0;2;;Chelsea;0;5;;OLEG;SVT40_mp;135;MOD_HEAD_SHOT;head
+ 45:01 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 45:01 D;0;1;axis;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_foot
+ 45:01 K;0;3;;Max;0;4;;Slavon;panzerschreck_mp;351;MOD_PROJECTILE_SPLASH;none
+ 45:02 Weapon;0;7;Vandal;g43_mp
+ 45:02 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 45:02 D;0;5;allies;OLEG;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 45:03 K;0;5;;OLEG;0;2;;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 45:05 Weapon;0;7;Vandal;mp44_mp
+ 45:09 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 45:09 D;0;7;allies;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 45:10 K;0;7;;Vandal;0;6;;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 45:17 ShutdownGame:
+ 45:17 ------------------------------------------------------------
+ 45:17 ------------------------------------------------------------
+ 45:17 InitGame: \g_antilag\1\g_gametype\ctf\gamename\Call of Duty 2\mapname\mp_downtown\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+ 45:18 J;0;0;Petro
+ 45:19 J;0;7;Vandal
+ 45:19 J;0;5;OLEG
+ 45:19 J;0;3;Max
+ 45:19 J;0;4;Slavon
+ 45:21 J;0;2;Chelsea
+ 45:22 J;0;6;Belosh59
+ 45:25 J;0;1;Ibragim
+ 45:42 K;0;3;allies;Max;0;3;allies;Max;none;100000;MOD_SUICIDE;none
+ 45:45 Weapon;0;5;OLEG;g43_mp
+ 45:56 Q;0;4;Slavon
+ 46:00 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 46:00 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 46:01 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 46:02 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 46:04 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 46:17 J;0;4;Slavon
+ 46:24 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 46:27 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 46:27 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 46:28 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 46:30 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 46:31 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;28;MOD_PISTOL_BULLET;left_leg_upper
+ 46:36 K;0;5;allies;OLEG;0;4;allies;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 46:41 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 46:47 say;0;5;OLEG;?
+ 46:49 Q;0;4;Slavon
+ 46:52 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 47:04 J;0;4;Slavon
+ 47:11 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 47:12 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 47:12 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 47:12 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 47:12 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 47:14 Weapon;0;5;OLEG;m1carbine_mp
+ 47:14 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 47:17 say;0;6;Belosh59;CJ>PYBRJD VFKJ
+ 47:23 K;0;0;axis;Petro;0;5;allies;OLEG;frag_grenade_russian_mp;165;MOD_GRENADE_SPLASH;none
+ 47:26 say;0;6;Belosh59;SOYZNIKOV MALO
+ 47:26 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 47:29 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;neck
+ 47:33 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+ 47:34 Weapon;0;5;OLEG;ppsh_mp
+ 47:34 say;0;7;Vandal;no
+ 47:36 Weapon;0;6;Belosh59;mp44_mp
+ 47:37 Weapon;0;5;OLEG;mosin_nagant_sniper_mp
+ 47:55 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 48:06 D;0;5;allies;OLEG;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 48:06 D;0;5;allies;OLEG;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 48:09 K;0;7;axis;Vandal;0;5;allies;OLEG;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 48:13 K;0;6;axis;Belosh59;0;4;allies;Slavon;panzerschreck_mp;481;MOD_PROJECTILE_SPLASH;none
+ 48:17 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;neck
+ 48:18 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;33;MOD_PISTOL_BULLET;right_leg_lower
+ 48:18 Weapon;0;4;Slavon;mp44_mp
+ 48:18 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;33;MOD_PISTOL_BULLET;right_leg_lower
+ 48:18 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 48:25 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 48:29 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 48:30 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 48:38 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 48:38 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 48:40 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 48:41 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;96;MOD_HEAD_SHOT;head
+ 48:53 K;0;0;axis;Petro;0;5;allies;OLEG;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 48:55 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 48:56 K;0;5;allies;OLEG;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 49:01 Weapon;0;7;Vandal;ppsh_mp
+ 49:05 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 49:06 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 49:06 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 49:07 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 49:22 K;0;7;axis;Vandal;0;5;allies;OLEG;frag_grenade_russian_mp;78;MOD_GRENADE_SPLASH;none
+ 49:23 D;0;5;allies;OLEG;0;7;axis;Vandal;frag_grenade_german_mp;72;MOD_GRENADE_SPLASH;none
+ 49:32 K;0;2;allies;Chelsea;0;6;axis;Belosh59;frag_grenade_german_mp;113;MOD_GRENADE_SPLASH;none
+ 49:34 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 49:36 say;0;2;Chelsea;(
+ 49:53 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 49:56 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 49:56 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 49:56 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 50:02 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 50:03 Weapon;0;7;Vandal;ppsh_mp
+ 50:06 say;0;6;Belosh59;pizda tebe tam
+ 50:07 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 50:10 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 50:11 Weapon;0;5;OLEG;frag_grenade_russian_mp
+ 50:11 Weapon;0;5;OLEG;m1carbine_mp
+ 50:26 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;neck
+ 50:34 K;0;5;allies;OLEG;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 50:38 Weapon;0;6;Belosh59;ppsh_mp
+ 50:45 Weapon;0;1;Ibragim;frag_grenade_russian_mp
+ 50:45 K;0;0;axis;Petro;0;1;allies;Ibragim;frag_grenade_russian_mp;182;MOD_GRENADE_SPLASH;none
+ 50:45 D;0;7;axis;Vandal;0;1;allies;Ibragim;frag_grenade_russian_mp;98;MOD_GRENADE_SPLASH;none
+ 50:47 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 50:47 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 50:47 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_lower
+ 50:51 D;0;6;axis;Belosh59;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 50:52 K;0;6;axis;Belosh59;0;4;allies;Slavon;mp44_mp;120;MOD_HEAD_SHOT;head
+ 51:01 Weapon;0;7;Vandal;springfield_mp
+ 51:01 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 51:05 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 51:06 Weapon;0;0;Petro;frag_grenade_german_mp
+ 51:08 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 51:11 K;0;5;allies;OLEG;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 51:19 sayteam;0;4;Slavon;QUICKMESSAGE_ENEMY_SPOTTED
+ 51:19 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_foot
+ 51:19 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 51:21 Weapon;0;3;Max;frag_grenade_russian_mp
+ 51:22 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;270;MOD_HEAD_SHOT;head
+ 51:27 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 51:30 Weapon;0;5;OLEG;TT30_mp
+ 51:40 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 51:41 D;0;5;allies;OLEG;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 51:41 D;0;5;allies;OLEG;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 51:42 Weapon;0;2;Chelsea;mosin_nagant_sniper_mp
+ 51:43 K;0;7;axis;Vandal;0;5;allies;OLEG;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 51:50 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 51:57 sayteam;0;4;Slavon;QUICKMESSAGE_IM_IN_POSITION
+ 51:57 D;0;1;allies;Ibragim;0;1;allies;Ibragim;frag_grenade_german_mp;56;MOD_GRENADE_SPLASH;none
+ 52:05 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 52:05 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+ 52:05 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_foot
+ 52:06 K;0;5;allies;OLEG;0;3;axis;Max;g43_mp;135;MOD_HEAD_SHOT;head
+ 52:12 sayteam;0;4;Slavon;QUICKMESSAGE_GREAT_SHOT
+ 52:24 Weapon;0;5;OLEG;springfield_mp
+ 52:31 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 52:31 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 52:31 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 52:34 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 52:50 Weapon;0;7;Vandal;mosin_nagant_sniper_mp
+ 52:51 K;0;6;axis;Belosh59;0;5;allies;OLEG;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 52:57 D;0;0;axis;Petro;0;2;allies;Chelsea;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+ 52:59 D;0;5;allies;OLEG;0;7;axis;Vandal;frag_grenade_german_mp;62;MOD_GRENADE_SPLASH;none
+ 53:06 K;0;5;allies;OLEG;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 53:08 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 53:15 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 53:22 Weapon;0;2;Chelsea;m1carbine_mp
+ 53:36 K;0;6;axis;Belosh59;0;5;allies;OLEG;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 53:40 Weapon;0;5;OLEG;frag_grenade_german_mp
+ 53:40 Weapon;0;5;OLEG;colt_mp
+ 53:41 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 53:42 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 53:52 Weapon;0;6;Belosh59;mp44_mp
+ 53:54 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 53:54 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 53:54 K;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 53:56 D;0;5;allies;OLEG;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 53:57 Weapon;0;7;Vandal;m1carbine_mp
+ 54:04 K;0;5;allies;OLEG;0;3;axis;Max;frag_grenade_russian_mp;162;MOD_GRENADE_SPLASH;none
+ 54:13 D;0;4;allies;Slavon;0;6;axis;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 54:13 D;0;4;allies;Slavon;0;6;axis;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 54:13 K;0;4;allies;Slavon;0;6;axis;Belosh59;mp44_mp;120;MOD_HEAD_SHOT;head
+ 54:22 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 54:22 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 54:23 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 54:23 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_arm_lower
+ 54:24 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 54:27 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 54:28 K;0;5;allies;OLEG;0;3;axis;Max;frag_grenade_russian_mp;147;MOD_GRENADE_SPLASH;none
+ 54:31 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 54:32 Weapon;0;2;Chelsea;g43_mp
+ 54:33 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 54:56 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_lower
+ 54:56 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_foot
+ 54:57 K;0;5;allies;OLEG;0;3;axis;Max;frag_grenade_german_mp;128;MOD_GRENADE_SPLASH;none
+ 54:57 K;0;2;allies;Chelsea;0;3;axis;Max;frag_grenade_german_mp;149;MOD_GRENADE_SPLASH;none
+ 55:03 Weapon;0;3;Max;frag_grenade_russian_mp
+ 55:03 sayteam;0;5;OLEG;t
+ 55:09 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 55:09 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 55:10 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 55:13 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 55:14 D;0;5;allies;OLEG;0;0;axis;Petro;ppsh_mp;32;MOD_PISTOL_BULLET;left_leg_upper
+ 55:14 D;0;5;allies;OLEG;0;0;axis;Petro;ppsh_mp;32;MOD_PISTOL_BULLET;right_leg_upper
+ 55:14 D;0;5;allies;OLEG;0;0;axis;Petro;ppsh_mp;32;MOD_PISTOL_BULLET;left_leg_upper
+ 55:14 K;0;5;allies;OLEG;0;0;axis;Petro;ppsh_mp;32;MOD_PISTOL_BULLET;left_leg_upper
+ 55:15 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 55:15 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 55:15 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 55:19 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 55:22 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 55:23 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 55:27 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 55:28 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 55:28 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 55:34 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 55:34 K;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 55:35 K;0;3;axis;Max;0;4;allies;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 55:37 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 55:39 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 55:39 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 55:53 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 55:53 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 55:53 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 55:54 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 56:05 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 56:05 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 56:06 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 56:07 D;0;6;axis;Belosh59;0;4;allies;Slavon;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+ 56:08 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;270;MOD_HEAD_SHOT;head
+ 56:13 K;0;6;axis;Belosh59;0;4;allies;Slavon;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;left_hand
+ 56:30 Weapon;0;6;Belosh59;frag_grenade_russian_mp
+ 56:31 Weapon;0;6;Belosh59;mp44_mp
+ 56:31 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 56:31 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 56:31 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_foot
+ 56:31 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 56:32 D;0;4;allies;Slavon;0;6;axis;Belosh59;frag_grenade_german_mp;73;MOD_GRENADE_SPLASH;none
+ 56:33 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 56:40 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 56:44 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 56:44 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 56:44 K;0;4;allies;Slavon;0;6;axis;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 56:44 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 56:46 K;0;1;allies;Ibragim;0;1;allies;Ibragim;frag_grenade_german_mp;77;MOD_GRENADE_SPLASH;none
+ 56:53 say;0;7;Vandal;)
+ 56:56 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 56:57 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 56:58 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;neck
+ 57:01 D;0;3;axis;Max;0;5;allies;OLEG;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;left_leg_lower
+ 57:02 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 57:03 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 57:14 Weapon;0;6;Belosh59;m1carbine_mp
+ 57:16 Weapon;0;7;Vandal;springfield_mp
+ 57:21 K;0;2;allies;Chelsea;0;7;axis;Vandal;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 57:23 Weapon;0;3;Max;frag_grenade_russian_mp
+ 57:25 K;0;4;allies;Slavon;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 57:28 Weapon;0;7;Vandal;m1carbine_mp
+ 57:28 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 57:28 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 57:29 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 57:39 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 57:40 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 57:59 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 57:59 K;0;3;axis;Max;0;4;allies;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 58:02 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 58:03 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 58:03 D;0;2;allies;Chelsea;0;6;axis;Belosh59;m1carbine_mp;90;MOD_PISTOL_BULLET;neck
+ 58:03 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 58:07 Weapon;0;6;Belosh59;m1carbine_mp
+ 58:11 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 58:12 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 58:12 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 58:13 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 58:21 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 58:21 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 58:30 K;0;5;allies;OLEG;0;1;allies;Ibragim;mp44_mp;152;MOD_MELEE;torso_upper
+ 58:33 Q;0;7;Vandal
+ 58:43 J;0;7;Vandal
+ 58:52 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 58:53 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 58:53 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 58:53 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;20;MOD_RIFLE_BULLET;right_arm_lower
+ 58:53 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 58:53 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 58:53 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;20;MOD_RIFLE_BULLET;left_leg_lower
+ 58:53 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 58:53 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 58:54 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 58:55 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 58:55 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 58:57 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 58:59 Weapon;0;7;Vandal;ppsh_mp
+ 59:03 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 59:09 Weapon;0;6;Belosh59;mp44_mp
+ 59:12 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 59:13 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 59:13 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 59:13 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 59:21 Weapon;0;2;Chelsea;m1carbine_mp
+ 59:25 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 59:26 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 59:27 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 59:27 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 59:28 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 59:31 Weapon;0;6;Belosh59;mp44_mp
+ 59:32 D;0;6;axis;Belosh59;0;4;allies;Slavon;mosin_nagant_sniper_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+ 59:34 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 59:34 K;0;7;axis;Vandal;0;4;allies;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 59:53 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 59:59 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 60:12 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 60:12 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 60:15 J;0;8;Vitalik
+ 60:24 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 60:24 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 60:24 Weapon;0;0;Petro;frag_grenade_german_mp
+ 60:25 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_hand
+ 60:27 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 60:28 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 60:30 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 60:31 Weapon;0;7;Vandal;frag_grenade_russian_mp
+ 60:34 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 60:34 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 60:37 D;0;1;allies;Ibragim;0;8;axis;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 60:38 D;0;1;allies;Ibragim;0;8;axis;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 60:38 K;0;1;allies;Ibragim;0;8;axis;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 60:43 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 60:52 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 60:52 Weapon;0;6;Belosh59;mp44_mp
+ 60:53 say;0;7;Vandal;vitalik pereidy
+ 60:53 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 60:55 say;0;7;Vandal;vitalik pereidy
+ 60:56 say;0;7;Vandal;vitalik pereidy
+ 60:57 say;0;7;Vandal;vitalik pereidy
+ 60:57 say;0;7;Vandal;vitalik pereidy
+ 60:58 say;0;7;Vandal;vitalik pereidy
+ 60:58 say;0;7;Vandal;vitalik pereidy
+ 60:58 say;0;7;Vandal;vitalik pereidy
+ 60:58 say;0;7;Vandal;vitalik pereidy
+ 60:58 say;0;7;Vandal;vitalik pereidy
+ 61:01 say;0;7;Vandal;wa aw
+ 61:02 K;0;8;axis;Vitalik;0;8;axis;Vitalik;none;100000;MOD_SUICIDE;none
+ 61:02 K;0;0;axis;Petro;0;6;axis;Belosh59;frag_grenade_german_mp;63;MOD_GRENADE_SPLASH;none
+ 61:06 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 61:06 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 61:06 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 61:08 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 61:08 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 61:12 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 61:20 K;0;0;axis;Petro;0;4;allies;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 61:20 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_foot
+ 61:20 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 61:21 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 61:23 Q;0;5;OLEG
+ 61:28 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 61:28 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 61:29 K;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 61:32 Weapon;0;6;Belosh59;bren_mp
+ 61:33 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 61:33 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 61:33 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 61:43 Weapon;0;7;Vandal;bren_mp
+ 61:54 D;0;4;allies;Slavon;0;6;axis;Belosh59;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 61:54 D;0;4;allies;Slavon;0;6;axis;Belosh59;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 61:55 K;0;4;allies;Slavon;0;6;axis;Belosh59;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 62:02 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 62:02 Weapon;0;3;Max;frag_grenade_russian_mp
+ 62:02 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 62:02 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 62:02 D;0;1;allies;Ibragim;0;7;axis;Vandal;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 62:02 D;0;1;allies;Ibragim;0;7;axis;Vandal;bren_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 62:03 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 62:03 K;0;1;allies;Ibragim;0;7;axis;Vandal;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 62:04 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 62:05 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 62:05 K;0;2;allies;Chelsea;0;7;axis;Vandal;bren_mp;120;MOD_HEAD_SHOT;head
+ 62:07 Weapon;0;7;Vandal;bren_mp
+ 62:08 Weapon;0;7;Vandal;m1carbine_mp
+ 62:14 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 62:14 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 62:14 sayteam;0;6;Belosh59;norm
+ 62:16 D;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 62:17 D;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 62:20 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 62:20 D;0;1;allies;Ibragim;0;6;axis;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 62:21 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 62:21 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 62:24 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 62:26 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 62:26 K;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 62:27 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 62:28 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_foot
+ 62:28 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 62:29 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 62:29 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 62:31 K;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 62:41 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 62:46 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 63:00 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 63:01 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 63:01 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 63:02 D;0;0;axis;Petro;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;neck
+ 63:06 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 63:06 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 63:09 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 63:09 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 63:20 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 63:23 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 63:26 K;0;0;axis;Petro;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 63:27 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 63:28 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 63:28 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 63:32 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 63:33 sayteam;0;4;Slavon;QUICKMESSAGE_ENEMY_SPOTTED
+ 63:33 K;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 63:38 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 63:38 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 63:38 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 63:51 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 63:55 Weapon;0;8;Vitalik;bren_mp
+ 63:55 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 63:59 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 64:01 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 64:02 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 64:03 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 64:03 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 64:03 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 64:13 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 64:14 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 64:17 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 64:17 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 64:17 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 64:18 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 64:18 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_arm_lower
+ 64:19 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 64:23 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+ 64:23 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 64:23 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 64:24 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 64:26 Weapon;0;4;Slavon;m1carbine_mp
+ 64:26 K;0;8;allies;Vitalik;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;left_arm_upper
+ 64:27 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 64:29 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 64:29 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 64:44 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 64:45 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 64:46 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 64:46 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 64:50 Weapon;0;6;Belosh59;mp44_mp
+ 64:51 K;0;7;axis;Vandal;0;4;allies;Slavon;webley_mp;41;MOD_PISTOL_BULLET;left_leg_upper
+ 64:54 K;0;8;allies;Vitalik;0;7;axis;Vandal;frag_grenade_german_mp;103;MOD_GRENADE_SPLASH;none
+ 64:57 D;0;1;allies;Ibragim;0;6;axis;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 64:57 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 64:58 K;0;1;allies;Ibragim;0;6;axis;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 64:58 D;0;2;allies;Chelsea;0;6;axis;Belosh59;mp44_mp;40;MOD_RIFLE_BULLET;right_foot
+ 64:59 K;0;2;allies;Chelsea;0;6;axis;Belosh59;mp44_mp;120;MOD_HEAD_SHOT;head
+ 65:02 Weapon;0;4;Slavon;m1carbine_mp
+ 65:04 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 65:04 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 65:04 Weapon;0;3;Max;frag_grenade_german_mp
+ 65:11 K;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 65:12 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 65:13 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 65:13 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 65:13 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 65:14 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 65:16 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 65:16 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 65:16 D;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 65:16 K;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 65:17 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 65:18 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 65:18 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 65:18 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 65:24 Weapon;0;6;Belosh59;frag_grenade_russian_mp
+ 65:29 Weapon;0;6;Belosh59;bren_mp
+ 65:32 K;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 65:33 K;0;6;axis;Belosh59;0;8;allies;Vitalik;frag_grenade_russian_mp;124;MOD_GRENADE_SPLASH;none
+ 65:38 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 65:41 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 65:41 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 65:52 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 65:53 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 65:53 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 65:53 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 65:53 K;0;0;axis;Petro;0;6;axis;Belosh59;frag_grenade_german_mp;112;MOD_GRENADE_SPLASH;none
+ 65:54 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 65:54 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 65:57 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 65:58 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 65:58 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 65:59 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 66:00 Weapon;0;7;Vandal;frag_grenade_russian_mp
+ 66:01 K;0;1;allies;Ibragim;0;3;axis;Max;g43_mp;135;MOD_HEAD_SHOT;head
+ 66:03 Weapon;0;3;Max;frag_grenade_russian_mp
+ 66:10 K;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 66:16 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 66:16 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 66:22 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 66:22 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 66:24 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 66:24 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 66:25 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 66:29 K;0;8;allies;Vitalik;0;6;axis;Belosh59;springfield_mp;229;MOD_MELEE;neck
+ 66:31 Weapon;0;6;Belosh59;bren_mp
+ 66:31 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 66:31 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 66:32 K;0;7;axis;Vandal;0;2;allies;Chelsea;frag_grenade_russian_mp;148;MOD_GRENADE_SPLASH;none
+ 66:41 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 66:41 Weapon;0;2;Chelsea;m1carbine_mp
+ 66:41 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 66:41 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 66:47 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 66:47 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 66:47 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;39;MOD_RIFLE_BULLET;right_leg_upper
+ 66:47 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 66:47 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 66:55 K;0;1;allies;Ibragim;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+ 66:56 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 67:01 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 67:01 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 67:01 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 67:11 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 67:12 K;0;3;axis;Max;0;8;allies;Vitalik;frag_grenade_russian_mp;127;MOD_GRENADE_SPLASH;none
+ 67:14 K;0;2;allies;Chelsea;0;8;allies;Vitalik;frag_grenade_russian_mp;93;MOD_GRENADE_SPLASH;none
+ 67:15 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 67:16 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 67:16 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 67:20 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 67:21 sayteam;0;2;Chelsea;nu
+ 67:21 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 67:27 K;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;90;MOD_RIFLE_BULLET;right_arm_upper
+ 67:32 Weapon;0;7;Vandal;springfield_mp
+ 67:32 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_upper
+ 67:33 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 67:33 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 67:34 sayteam;0;4;Slavon;QUICKMESSAGE_ENEMY_SPOTTED
+ 67:46 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 67:55 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 67:55 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 67:55 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 68:00 Weapon;0;7;Vandal;frag_grenade_russian_mp
+ 68:01 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 68:02 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 68:02 K;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 68:06 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;135;MOD_HEAD_SHOT;head
+ 68:07 say;0;7;Vandal;zhuk
+ 68:09 Weapon;0;3;Max;frag_grenade_russian_mp
+ 68:09 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 68:09 Weapon;0;4;Slavon;m1carbine_mp
+ 68:30 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 68:32 K;0;4;allies;Slavon;0;7;axis;Vandal;frag_grenade_german_mp;108;MOD_GRENADE_SPLASH;none
+ 68:32 D;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 68:33 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 68:33 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 68:33 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 68:35 Weapon;0;7;Vandal;bren_mp
+ 68:36 D;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+ 68:36 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 68:37 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 68:39 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;135;MOD_RIFLE_BULLET;left_arm_upper
+ 68:39 K;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 68:45 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 68:46 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 68:46 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 69:03 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 69:03 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 69:04 K;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 69:05 Weapon;0;4;Slavon;m1carbine_mp
+ 69:05 Weapon;0;4;Slavon;frag_grenade_russian_mp
+ 69:18 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 69:18 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 69:19 K;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 69:19 K;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 69:28 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 69:32 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 69:42 Weapon;0;3;Max;frag_grenade_german_mp
+ 69:42 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 69:42 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 69:43 Weapon;0;3;Max;g43_mp
+ 69:45 D;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+ 69:46 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 69:48 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 69:48 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;right_leg_upper
+ 69:49 K;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 69:49 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 69:50 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_foot
+ 69:50 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_lower
+ 69:58 Weapon;0;4;Slavon;m1carbine_mp
+ 69:59 Weapon;0;0;Petro;frag_grenade_russian_mp
+ 70:04 D;0;0;axis;Petro;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 70:10 K;0;0;axis;Petro;0;4;allies;Slavon;frag_grenade_russian_mp;66;MOD_GRENADE_SPLASH;none
+ 70:14 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 70:15 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 70:15 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 70:19 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 70:20 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 70:20 K;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;450;MOD_MELEE;head
+ 70:20 Weapon;0;7;Vandal;m1carbine_mp
+ 70:20 Weapon;0;7;Vandal;frag_grenade_russian_mp
+ 70:22 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 70:22 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 70:27 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 70:32 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 70:35 Weapon;0;4;Slavon;colt_mp
+ 70:35 K;0;2;allies;Chelsea;0;6;axis;Belosh59;springfield_mp;270;MOD_HEAD_SHOT;head
+ 70:38 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;120;MOD_HEAD_SHOT;head
+ 70:40 Weapon;0;4;Slavon;m1carbine_mp
+ 70:50 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 70:51 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 70:52 K;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 71:02 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 71:08 D;0;6;axis;Belosh59;0;1;allies;Ibragim;TT30_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 71:08 D;0;1;allies;Ibragim;0;6;axis;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;left_arm_upper
+ 71:08 D;0;1;allies;Ibragim;0;6;axis;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;right_arm_upper
+ 71:09 K;0;1;allies;Ibragim;0;6;axis;Belosh59;colt_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 71:10 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 71:10 D;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 71:10 K;0;2;allies;Chelsea;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_lower
+ 71:15 D;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 71:15 D;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;left_leg_lower
+ 71:17 K;0;0;axis;Petro;0;4;allies;Slavon;frag_grenade_russian_mp;131;MOD_GRENADE_SPLASH;none
+ 71:24 Weapon;0;3;Max;frag_grenade_russian_mp
+ 71:27 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 71:27 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 71:28 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 71:31 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 71:31 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 71:31 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 71:33 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 71:33 Weapon;0;8;Vitalik;bren_mp
+ 71:44 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 71:46 Weapon;0;7;Vandal;frag_grenade_russian_mp
+ 71:52 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 71:53 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 71:53 K;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 71:59 Weapon;0;6;Belosh59;springfield_mp
+ 72:11 D;0;4;allies;Slavon;0;3;axis;Max;frag_grenade_german_mp;88;MOD_GRENADE_SPLASH;none
+ 72:12 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 72:13 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 72:13 K;0;4;allies;Slavon;0;3;axis;Max;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 72:14 Weapon;0;7;Vandal;frag_grenade_russian_mp
+ 72:18 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 72:19 D;0;8;allies;Vitalik;0;3;axis;Max;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+ 72:19 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 72:23 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 72:23 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 72:27 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 72:27 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 72:27 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 72:33 D;0;7;axis;Vandal;;-1;world;;none;4;MOD_FALLING;none
+ 72:50 D;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 72:50 K;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;120;MOD_HEAD_SHOT;head
+ 72:50 K;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;120;MOD_HEAD_SHOT;head
+ 72:52 say;0;2;Chelsea;vernite ah flag
+ 73:04 say;0;3;Max;idu)
+ 73:11 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 73:11 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 73:11 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 73:13 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 73:14 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 73:14 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 73:16 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 73:26 say;0;3;Max; a vy nash)
+ 73:27 say;0;2;Chelsea;to y cvoim)
+ 73:32 D;0;1;allies;Ibragim;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 73:32 D;0;1;allies;Ibragim;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 73:33 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 73:34 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;neck
+ 73:34 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 73:35 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 73:36 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 73:36 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 73:36 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 73:39 Weapon;0;7;Vandal;m1carbine_mp
+ 73:49 say;0;7;Vandal;chelsea ti de?
+ 73:57 sayteam;0;6;Belosh59;zaberite flag ebaniy
+ 74:03 D;0;8;allies;Vitalik;0;4;allies;Slavon;frag_grenade_russian_mp;64;MOD_GRENADE_SPLASH;none
+ 74:15 K;0;7;axis;Vandal;0;1;allies;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 74:26 sayteam;0;7;Vandal;vony y sebe
+ 74:26 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 74:27 K;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 74:41 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 74:41 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 74:41 K;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 74:43 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_foot
+ 74:44 K;0;7;axis;Vandal;0;1;allies;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+ 74:45 D;0;1;allies;Ibragim;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 74:45 say;0;3;Max;aaaaaa
+ 74:48 Weapon;0;1;Ibragim;frag_grenade_russian_mp
+ 74:56 say;0;3;Max;po4ti)
+ 75:00 Weapon;0;2;Chelsea;frag_grenade_russian_mp
+ 75:05 Weapon;0;3;Max;frag_grenade_german_mp
+ 75:05 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 75:06 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;44;MOD_PISTOL_BULLET;torso_lower
+ 75:06 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 75:09 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 75:11 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 75:11 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 75:15 Weapon;0;8;Vitalik;frag_grenade_russian_mp
+ 75:17 W;axis;0;Petro;0;Max;0;Belosh59;0;Vandal
+ 75:17 L;allies;0;Ibragim;0;Chelsea;0;Slavon;0;Vitalik
+ 75:27 ExitLevel: executed
+ 75:27 ShutdownGame:
+ 75:27 ------------------------------------------------------------
+ 75:27 ------------------------------------------------------------
+ 75:27 InitGame: \g_antilag\1\g_gametype\ctf\gamename\Call of Duty 2\mapname\mp_downtown\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+ 75:27 J;0;8;Vitalik
+ 75:27 J;0;7;Vandal
+ 75:27 J;0;6;Belosh59
+ 75:27 J;0;4;Slavon
+ 75:27 J;0;3;Max
+ 75:27 J;0;2;Chelsea
+ 75:27 J;0;1;Ibragim
+ 75:27 J;0;0;Petro
+ 75:59 D;0;8;allies;Vitalik;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 75:59 K;0;8;allies;Vitalik;0;1;axis;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 76:01 say;0;7;Vandal;f1
+ 76:03 K;0;6;allies;Belosh59;0;4;axis;Slavon;mosin_nagant_sniper_mp;270;MOD_HEAD_SHOT;head
+ 76:07 say;0;7;Vandal;F1
+ 76:09 say;0;7;Vandal;F1
+ 76:09 say;0;7;Vandal;F1
+ 76:09 say;0;7;Vandal;F1
+ 76:10 say;0;7;Vandal;F1
+ 76:10 say;0;7;Vandal;F1
+ 76:10 say;0;7;Vandal;F1
+ 76:12 D;0;1;axis;Ibragim;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 76:17 D;0;8;allies;Vitalik;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 76:17 D;0;8;allies;Vitalik;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 76:30 say;0;7;Vandal;F1
+ 76:30 say;0;7;Vandal;F1
+ 76:31 say;0;7;Vandal;F1
+ 76:31 say;0;7;Vandal;F1
+ 76:31 say;0;7;Vandal;F1
+ 76:31 say;0;7;Vandal;F1
+ 76:32 say;0;7;Vandal;F1
+ 76:32 say;0;7;Vandal;F1
+ 76:32 say;0;7;Vandal;F1
+ 76:33 D;0;6;allies;Belosh59;0;3;axis;Max;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 76:33 D;0;6;allies;Belosh59;0;3;axis;Max;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 76:34 K;0;6;allies;Belosh59;0;3;axis;Max;bar_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 76:34 D;0;0;axis;Petro;0;6;allies;Belosh59;frag_grenade_russian_mp;77;MOD_GRENADE_SPLASH;none
+ 76:36 K;0;8;allies;Vitalik;0;1;axis;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 76:37 ShutdownGame:
+ 76:37 ------------------------------------------------------------
+ 76:37 ------------------------------------------------------------
+ 76:37 InitGame: \g_antilag\1\g_gametype\hq\gamename\Call of Duty 2\mapname\mp_dawnville\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+ 76:38 J;0;0;Petro
+ 76:39 J;0;7;Vandal
+ 76:39 J;0;3;Max
+ 76:40 J;0;4;Slavon
+ 76:45 J;0;6;Belosh59
+ 76:45 J;0;1;Ibragim
+ 76:47 J;0;2;Chelsea
+ 76:51 J;0;8;Vitalik
+ 76:59 K;0;1;axis;Ibragim;0;1;axis;Ibragim;none;100000;MOD_SUICIDE;none
+ 77:07 say;0;7;Vandal;MAX
+ 77:11 D;0;0;axis;Petro;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 77:23 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 77:24 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+ 77:26 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 77:36 D;0;3;allies;Max;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 77:36 D;0;3;allies;Max;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 77:36 K;0;3;allies;Max;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 77:46 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 77:46 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 77:47 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 78:07 Weapon;0;7;Vandal;bren_mp
+ 78:13 D;0;0;axis;Petro;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 78:13 K;0;0;axis;Petro;0;3;allies;Max;mp44_mp;120;MOD_HEAD_SHOT;head
+ 78:13 Weapon;0;3;Max;frag_grenade_german_mp
+ 78:14 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 78:14 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 78:14 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 78:16 Q;0;6;Belosh59
+ 78:21 K;0;3;allies;Max;0;4;axis;Slavon;mosin_nagant_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+ 78:29 J;0;6;Belosh59
+ 78:30 D;0;4;axis;Slavon;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_upper
+ 78:31 D;0;4;axis;Slavon;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 78:31 K;0;4;axis;Slavon;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+ 78:37 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 78:37 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 78:37 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 79:00 D;0;6;axis;Belosh59;0;6;axis;Belosh59;panzerschreck_mp;36;MOD_PROJECTILE_SPLASH;none
+ 79:00 K;0;4;axis;Slavon;0;6;axis;Belosh59;panzerschreck_mp;293;MOD_PROJECTILE_SPLASH;none
+ 79:01 ShutdownGame:
+ 79:01 ------------------------------------------------------------
+ 79:01 ------------------------------------------------------------
+ 79:01 InitGame: \g_antilag\1\g_gametype\hq\gamename\Call of Duty 2\mapname\mp_dawnville\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+ 79:01 J;0;8;Vitalik
+ 79:01 J;0;7;Vandal
+ 79:01 J;0;6;Belosh59
+ 79:01 J;0;4;Slavon
+ 79:01 J;0;3;Max
+ 79:01 J;0;2;Chelsea
+ 79:01 J;0;1;Ibragim
+ 79:01 J;0;0;Petro
+ 79:19 say;0;7;Vandal;vitalik pereidy
+ 79:24 K;0;8;axis;Vitalik;0;8;axis;Vitalik;none;100000;MOD_SUICIDE;none
+ 79:34 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 79:35 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 79:36 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 79:37 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 79:38 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 79:43 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 79:43 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 79:43 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 79:45 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 79:53 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 79:53 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 80:02 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;neck
+ 80:03 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 80:03 D;0;2;allies;Chelsea;0;8;allies;Vitalik;bren_mp;60;MOD_RIFLE_BULLET;neck
+ 80:05 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 80:08 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 80:08 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 80:08 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 80:08 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 80:10 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 80:16 D;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_hand
+ 80:16 D;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 80:16 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 80:16 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 80:17 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;120;MOD_HEAD_SHOT;head
+ 80:17 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 80:19 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 80:28 Weapon;0;2;Chelsea;m1carbine_mp
+ 80:40 Weapon;0;0;Petro;frag_grenade_german_mp
+ 80:48 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 80:48 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 80:53 K;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 80:54 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 81:03 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 81:03 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 81:04 D;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 81:05 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 81:06 K;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 81:06 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 81:07 D;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 81:07 D;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+ 81:07 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 81:08 K;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 81:14 Weapon;0;3;Max;frag_grenade_american_mp
+ 81:15 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 81:15 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 81:15 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 81:23 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 81:29 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 81:30 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 81:30 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 81:30 K;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 81:31 D;0;3;axis;Max;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 81:31 K;0;3;axis;Max;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 81:32 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;35;MOD_RIFLE_BULLET;torso_upper
+ 81:32 K;0;6;axis;Belosh59;0;8;allies;Vitalik;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;torso_upper
+ 81:33 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 81:37 Weapon;0;7;Vandal;mp44_mp
+ 81:38 K;0;7;axis;Vandal;0;4;allies;Slavon;frag_grenade_american_mp;126;MOD_GRENADE_SPLASH;none
+ 81:38 D;0;0;axis;Petro;0;4;allies;Slavon;frag_grenade_american_mp;86;MOD_GRENADE_SPLASH;none
+ 81:39 sayteam;0;6;Belosh59;sorry Max
+ 81:41 K;0;0;axis;Petro;0;4;allies;Slavon;frag_grenade_american_mp;72;MOD_GRENADE_SPLASH;none
+ 81:50 Weapon;0;4;Slavon;m1carbine_mp
+ 81:50 say;0;2;Chelsea;harow)
+ 81:51 K;0;1;allies;Ibragim;0;3;axis;Max;30cal_stand_mp;105;MOD_HEAD_SHOT;head
+ 81:58 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;29;MOD_PISTOL_BULLET;torso_lower
+ 81:58 K;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;87;MOD_HEAD_SHOT;head
+ 82:11 Weapon;0;3;Max;frag_grenade_german_mp
+ 82:13 D;0;4;allies;Slavon;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 82:15 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 82:16 sayteam;0;4;Slavon;QUICKMESSAGE_ENEMY_DOWN
+ 82:20 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 82:20 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 82:20 K;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 82:20 K;0;6;axis;Belosh59;0;2;allies;Chelsea;frag_grenade_american_mp;139;MOD_GRENADE_SPLASH;none
+ 82:23 K;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 82:25 K;0;4;allies;Slavon;0;3;axis;Max;frag_grenade_german_mp;160;MOD_GRENADE_SPLASH;none
+ 82:29 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 82:29 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 82:29 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_lower
+ 82:34 sayteam;0;3;Max;ta norm)
+ 82:39 Weapon;0;2;Chelsea;frag_grenade_american_mp
+ 82:43 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 82:43 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 82:50 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 82:53 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 82:54 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 82:58 K;0;2;allies;Chelsea;0;7;axis;Vandal;frag_grenade_american_mp;176;MOD_GRENADE_SPLASH;none
+ 82:59 Weapon;0;0;Petro;frag_grenade_german_mp
+ 83:00 Weapon;0;7;Vandal;mp44_mp
+ 83:01 K;0;7;axis;Vandal;0;4;allies;Slavon;frag_grenade_american_mp;105;MOD_GRENADE_SPLASH;none
+ 83:06 sayteam;0;6;Belosh59;lol
+ 83:11 Weapon;0;0;Petro;frag_grenade_german_mp
+ 83:13 K;0;0;axis;Petro;0;8;allies;Vitalik;frag_grenade_american_mp;123;MOD_GRENADE_SPLASH;none
+ 83:17 Weapon;0;8;Vitalik;bren_mp
+ 83:21 sayteam;0;6;Belosh59;LOL
+ 83:26 D;0;4;allies;Slavon;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+ 83:26 D;0;4;allies;Slavon;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:26 K;0;4;allies;Slavon;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:33 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:33 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:34 K;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:40 D;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+ 83:40 D;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:40 K;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:50 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:50 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_upper
+ 83:51 K;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:51 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 83:51 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 83:51 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 83:58 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 84:02 K;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 84:07 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 84:08 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 84:10 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 84:12 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 84:12 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 84:20 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_lower
+ 84:21 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_lower
+ 84:21 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 84:26 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 84:26 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 84:27 Weapon;0;4;Slavon;m1carbine_mp
+ 84:28 Weapon;0;6;Belosh59;mp44_mp
+ 84:30 K;0;0;axis;Petro;0;1;allies;Ibragim;frag_grenade_american_mp;112;MOD_GRENADE_SPLASH;none
+ 84:30 D;0;7;axis;Vandal;0;1;allies;Ibragim;frag_grenade_american_mp;59;MOD_GRENADE_SPLASH;none
+ 84:35 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 84:35 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 84:36 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 84:40 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 84:40 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 84:45 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 84:45 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 84:46 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 84:48 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 84:51 Weapon;0;7;Vandal;mp44_mp
+ 85:00 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 85:00 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 85:00 K;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 85:05 D;0;2;allies;Chelsea;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 85:13 say;0;4;Slavon;ysor
+ 85:18 sayteam;0;4;Slavon;sorr
+ 85:19 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 85:25 Weapon;0;1;Ibragim;frag_grenade_american_mp
+ 85:29 sayteam;0;4;Slavon;QUICKMESSAGE_ENEMY_DOWN
+ 85:30 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 85:30 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 85:38 D;0;1;allies;Ibragim;0;6;axis;Belosh59;frag_grenade_german_mp;35;MOD_GRENADE_SPLASH;none
+ 85:46 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 85:47 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 85:47 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 85:47 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 85:47 K;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 85:48 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 85:48 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 85:49 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 85:49 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 85:49 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 85:49 K;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 85:51 Q;0;1;Ibragim
+ 85:53 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 85:53 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 86:05 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 86:07 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 86:13 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 86:13 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_hand
+ 86:13 K;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 86:15 Weapon;0;8;Vitalik;frag_grenade_american_mp
+ 86:20 D;0;0;axis;Petro;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 86:25 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 86:25 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 86:25 K;0;2;allies;Chelsea;0;7;axis;Vandal;frag_grenade_german_mp;58;MOD_GRENADE_SPLASH;none
+ 86:25 K;0;7;axis;Vandal;0;7;axis;Vandal;frag_grenade_german_mp;140;MOD_GRENADE_SPLASH;none
+ 86:26 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 86:27 K;0;8;allies;Vitalik;0;7;axis;Vandal;frag_grenade_german_mp;164;MOD_GRENADE_SPLASH;none
+ 86:27 J;0;1;Ibragim
+ 86:45 Weapon;0;1;Ibragim;frag_grenade_american_mp
+ 86:46 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 86:47 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 86:48 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 87:07 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 87:10 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 87:10 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 87:13 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 87:13 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 87:22 D;0;6;axis;Belosh59;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 87:26 sayteam;0;3;Max;sr
+ 87:45 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 87:45 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 87:46 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 87:55 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 87:55 D;0;2;allies;Chelsea;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 87:56 D;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 87:56 D;0;8;allies;Vitalik;0;3;axis;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 87:57 K;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;120;MOD_HEAD_SHOT;head
+ 87:58 K;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 88:03 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;105;MOD_HEAD_SHOT;head
+ 88:12 Weapon;0;8;Vitalik;frag_grenade_american_mp
+ 88:16 D;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_hand
+ 88:16 D;0;4;allies;Slavon;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 88:16 D;0;6;axis;Belosh59;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 88:18 say;0;6;Belosh59;sd
+ 88:18 K;0;4;allies;Slavon;0;1;allies;Ibragim;frag_grenade_american_mp;129;MOD_GRENADE_SPLASH;none
+ 88:22 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 88:22 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 88:22 K;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 88:27 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 88:31 Weapon;0;2;Chelsea;frag_grenade_american_mp
+ 88:32 say;0;7;Vandal;PAIDET
+ 88:39 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 88:53 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 88:57 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 88:57 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 88:58 K;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 88:59 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 89:00 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 89:00 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 89:10 Weapon;0;2;Chelsea;m1carbine_mp
+ 89:12 Weapon;0;8;Vitalik;bren_mp
+ 89:14 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 89:14 K;0;0;axis;Petro;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 89:15 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;right_hand
+ 89:16 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 89:16 K;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 89:16 K;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 89:21 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 89:21 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 89:22 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+ 89:25 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 89:29 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 89:33 D;0;8;allies;Vitalik;0;1;allies;Ibragim;mp44_mp;60;MOD_RIFLE_BULLET;neck
+ 89:35 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 89:36 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 89:36 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 89:36 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 89:37 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 89:37 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 89:37 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 89:37 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 89:37 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 89:37 K;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 89:37 K;0;6;axis;Belosh59;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 89:43 Weapon;0;7;Vandal;m1carbine_mp
+ 89:50 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 89:50 K;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 89:52 sayteam;0;3;Max;sorry))
+ 89:52 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 89:59 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 89:59 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 90:00 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:00 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 90:01 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:02 sayteam;0;6;Belosh59;:)
+ 90:02 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 90:05 K;0;4;allies;Slavon;0;3;axis;Max;frag_grenade_german_mp;156;MOD_GRENADE_SPLASH;none
+ 90:13 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;120;MOD_HEAD_SHOT;head
+ 90:13 D;0;2;allies;Chelsea;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:14 Weapon;0;2;Chelsea;frag_grenade_american_mp
+ 90:15 say;0;7;Vandal;))
+ 90:22 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 90:23 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 90:23 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 90:23 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:23 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:28 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 90:30 sayteam;0;7;Vandal;A
+ 90:33 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 90:37 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+ 90:37 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 90:38 K;0;8;allies;Vitalik;0;3;axis;Max;30cal_stand_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+ 90:48 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:48 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:48 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 90:49 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 90:51 Weapon;0;1;Ibragim;ppsh_mp
+ 90:54 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 90:55 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 90:55 K;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 90:55 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 90:58 K;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 91:05 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 91:08 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;52;MOD_RIFLE_BULLET;neck
+ 91:08 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 91:08 K;0;2;allies;Chelsea;0;3;axis;Max;30cal_stand_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 91:15 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 91:17 K;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 91:18 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 91:19 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 91:23 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 91:24 Weapon;0;7;Vandal;bren_mp
+ 91:25 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 91:30 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 91:31 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 91:31 K;0;7;axis;Vandal;0;1;allies;Ibragim;frag_grenade_american_mp;127;MOD_GRENADE_SPLASH;none
+ 91:42 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;30;MOD_PISTOL_BULLET;right_arm_lower
+ 91:42 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+ 91:42 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;31;MOD_PISTOL_BULLET;left_leg_lower
+ 91:42 K;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;31;MOD_PISTOL_BULLET;left_arm_lower
+ 91:57 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 91:57 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 91:57 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 92:05 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 92:05 K;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 92:08 say;0;6;Belosh59;r
+ 92:21 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 92:21 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 92:21 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 92:23 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 92:29 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 92:29 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 92:29 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 92:35 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 92:36 Weapon;0;4;Slavon;ppsh_mp
+ 92:36 Weapon;0;1;Ibragim;ppsh_mp
+ 92:36 Weapon;0;4;Slavon;m1carbine_mp
+ 92:37 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 92:37 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 92:37 K;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+ 92:38 D;0;0;axis;Petro;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 92:38 D;0;0;axis;Petro;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 92:39 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 92:39 Weapon;0;1;Ibragim;frag_grenade_american_mp
+ 92:39 Weapon;0;1;Ibragim;ppsh_mp
+ 92:41 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 92:41 Weapon;0;2;Chelsea;frag_grenade_american_mp
+ 92:55 D;0;6;axis;Belosh59;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 92:55 D;0;6;axis;Belosh59;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 92:55 K;0;6;axis;Belosh59;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 93:02 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 93:04 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;25;MOD_PISTOL_BULLET;left_foot
+ 93:06 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 93:06 D;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 93:07 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 93:11 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 93:11 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 93:11 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+ 93:11 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_hand
+ 93:11 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 93:13 K;0;6;axis;Belosh59;0;1;allies;Ibragim;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 93:14 Weapon;0;1;Ibragim;ppsh_mp
+ 93:15 Weapon;0;4;Slavon;frag_grenade_american_mp
+ 93:15 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+ 93:16 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_lower
+ 93:16 K;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 93:16 D;0;0;axis;Petro;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;left_hand
+ 93:16 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 93:16 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 93:24 Weapon;0;2;Chelsea;frag_grenade_german_mp
+ 93:27 Weapon;0;3;Max;frag_grenade_american_mp
+ 93:44 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 93:45 Weapon;0;7;Vandal;frag_grenade_german_mp
+ 93:47 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 93:48 say;0;6;Belosh59;ggwf
+ 93:49 D;0;6;axis;Belosh59;0;4;allies;Slavon;frag_grenade_american_mp;90;MOD_GRENADE_SPLASH;none
+ 93:50 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 93:50 D;0;7;axis;Vandal;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 93:51 K;0;6;axis;Belosh59;0;4;allies;Slavon;frag_grenade_american_mp;88;MOD_GRENADE_SPLASH;none
+ 93:51 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 93:53 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 93:54 K;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;453;MOD_MELEE;head
+ 93:54 Weapon;0;7;Vandal;m1carbine_mp
+ 93:55 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_lower
+ 93:55 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 93:55 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_lower
+ 93:55 K;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;right_hand
+ 93:55 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 94:02 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 94:03 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 94:03 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 94:07 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 94:13 Weapon;0;1;Ibragim;frag_grenade_german_mp
+ 94:15 Weapon;0;3;Max;frag_grenade_american_mp
+ 94:16 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;32;MOD_PISTOL_BULLET;right_leg_upper
+ 94:16 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;32;MOD_PISTOL_BULLET;right_arm_lower
+ 94:16 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;32;MOD_PISTOL_BULLET;torso_lower
+ 94:16 K;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;32;MOD_PISTOL_BULLET;right_leg_lower
+ 94:22 Weapon;0;3;Max;ppsh_mp
+ 94:24 Weapon;0;7;Vandal;ppsh_mp
+ 94:28 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 94:32 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 94:32 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_RIFLE_BULLET;torso_upper
+ 94:32 K;0;2;allies;Chelsea;0;3;axis;Max;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;torso_lower
+ 94:38 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 94:38 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 94:38 K;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 94:40 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 94:40 D;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 94:41 K;0;0;axis;Petro;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 94:41 D;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+ 94:49 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 94:58 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_lower
+ 94:59 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 94:59 Weapon;0;7;Vandal;m1carbine_mp
+ 94:59 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 94:59 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 94:59 D;0;8;allies;Vitalik;0;7;axis;Vandal;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 94:59 K;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_arm_upper
+ 95:02 D;0;3;axis;Max;0;4;allies;Slavon;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 95:02 Weapon;0;8;Vitalik;frag_grenade_german_mp
+ 95:03 D;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 95:03 K;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 95:05 D;0;2;allies;Chelsea;0;1;allies;Ibragim;frag_grenade_american_mp;53;MOD_GRENADE_SPLASH;none
+ 95:07 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_lower
+ 95:07 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 95:07 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 95:14 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;120;MOD_HEAD_SHOT;head
+ 95:15 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 95:15 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 95:15 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 95:15 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 95:15 D;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 95:16 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_foot
+ 95:16 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 95:17 K;0;3;axis;Max;0;3;axis;Max;frag_grenade_american_mp;60;MOD_GRENADE_SPLASH;none
+ 95:17 D;0;1;allies;Ibragim;0;3;axis;Max;frag_grenade_american_mp;88;MOD_GRENADE_SPLASH;none
+ 95:17 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 95:30 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 95:36 Weapon;0;3;Max;frag_grenade_german_mp
+ 95:42 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 95:42 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 95:43 K;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 95:45 Weapon;0;0;Petro;frag_grenade_american_mp
+ 95:47 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 95:49 D;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;29;MOD_PISTOL_BULLET;right_leg_lower
+ 95:53 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 95:54 Weapon;0;4;Slavon;frag_grenade_american_mp
+ 95:56 D;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 95:56 D;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 95:56 K;0;4;allies;Slavon;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 95:58 Weapon;0;7;Vandal;bren_mp
+ 95:58 Weapon;0;3;Max;ppsh_mp
+ 96:00 Weapon;0;3;Max;frag_grenade_american_mp
+ 96:03 Weapon;0;7;Vandal;ppsh_mp
+ 96:07 Weapon;0;7;Vandal;m1carbine_mp
+ 96:17 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 96:17 D;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 96:17 K;0;6;axis;Belosh59;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 96:28 D;0;8;allies;Vitalik;0;7;axis;Vandal;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 96:29 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 96:30 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+ 96:35 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 96:36 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+ 96:36 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 96:36 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 96:36 K;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 96:36 K;0;3;axis;Max;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+ 96:38 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 96:38 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 96:38 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 96:39 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 96:45 D;0;7;axis;Vandal;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_upper
+ 96:45 D;0;7;axis;Vandal;0;4;allies;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 96:51 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 96:52 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 96:56 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+ 96:56 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 96:56 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 96:57 Weapon;0;8;Vitalik;frag_grenade_american_mp
+ 97:10 K;0;8;allies;Vitalik;0;7;axis;Vandal;frag_grenade_american_mp;110;MOD_GRENADE_SPLASH;none
+ 97:17 D;0;2;allies;Chelsea;0;7;axis;Vandal;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 97:17 D;0;2;allies;Chelsea;0;7;axis;Vandal;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 97:17 K;0;2;allies;Chelsea;0;7;axis;Vandal;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 97:19 Weapon;0;7;Vandal;m1carbine_mp
+ 97:19 Weapon;0;7;Vandal;frag_grenade_american_mp
+ 97:32 K;0;4;allies;Slavon;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 97:38 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 97:39 Weapon;0;6;Belosh59;frag_grenade_american_mp
+ 97:40 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 97:40 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 97:40 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+ 97:40 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;52;MOD_PISTOL_BULLET;neck
+ 97:44 D;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 97:45 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 97:45 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 97:45 K;0;6;axis;Belosh59;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 97:46 Weapon;0;1;Ibragim;mp44_mp
+ 97:48 Weapon;0;8;Vitalik;frag_grenade_american_mp
+ 97:57 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 97:58 D;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 97:58 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 97:59 K;0;3;axis;Max;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 98:03 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+ 98:13 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 98:14 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 98:14 K;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 98:15 Weapon;0;2;Chelsea;frag_grenade_american_mp
+ 98:17 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 98:17 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;right_hand
+ 98:17 K;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+ 98:18 Weapon;0;3;Max;frag_grenade_german_mp
+ 98:18 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 98:18 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 98:18 K;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 98:22 K;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;52;MOD_PISTOL_BULLET;neck
+ 98:24 Weapon;0;6;Belosh59;frag_grenade_german_mp
+ 98:28 D;0;7;axis;Vandal;0;3;axis;Max;frag_grenade_german_mp;21;MOD_GRENADE_SPLASH;none
+ 98:41 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 98:43 D;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+ 98:47 K;0;8;allies;Vitalik;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_lower
+ 98:50 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 98:50 D;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+ 98:51 K;0;6;axis;Belosh59;0;2;allies;Chelsea;m1carbine_mp;135;MOD_HEAD_SHOT;head
+ 98:57 D;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 98:58 K;0;7;axis;Vandal;0;1;allies;Ibragim;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 99:08 Weapon;0;4;Slavon;frag_grenade_german_mp
+ 99:16 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+ 99:16 D;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 99:17 K;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 99:20 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 99:20 D;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 99:20 K;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+ 99:24 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 99:24 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 99:25 K;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 99:33 Weapon;0;4;Slavon;PPS42_mp
+ 99:34 Weapon;0;4;Slavon;ppsh_mp
+ 99:36 Weapon;0;2;Chelsea;frag_grenade_american_mp
+ 99:42 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+ 99:42 D;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 99:42 K;0;2;allies;Chelsea;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_lower
+ 99:43 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 99:43 D;0;3;axis;Max;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 99:46 D;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+ 99:47 K;0;4;allies;Slavon;0;0;axis;Petro;ppsh_mp;105;MOD_HEAD_SHOT;head
+ 99:48 Weapon;0;1;Ibragim;frag_grenade_american_mp
+ 99:49 K;0;3;axis;Max;0;8;allies;Vitalik;frag_grenade_american_mp;134;MOD_GRENADE_SPLASH;none
+ 99:49 say;0;7;Vandal;NADA PEREDILITSIA
+ 99:51 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+ 99:51 D;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_lower
+ 99:51 K;0;1;allies;Ibragim;0;0;axis;Petro;ppsh_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+100:02 say;0;6;Belosh59;kaneshn
+100:03 say;0;2;Chelsea;ta yze pozdno
+100:16 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;34;MOD_PISTOL_BULLET;torso_upper
+100:16 D;0;8;allies;Vitalik;0;3;axis;Max;ppsh_mp;34;MOD_PISTOL_BULLET;torso_lower
+100:17 D;0;0;axis;Petro;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+100:17 K;0;0;axis;Petro;0;1;allies;Ibragim;frag_grenade_american_mp;146;MOD_GRENADE_SPLASH;none
+100:19 Weapon;0;1;Ibragim;m1carbine_mp
+100:19 Weapon;0;1;Ibragim;frag_grenade_american_mp
+100:20 Weapon;0;2;Chelsea;frag_grenade_american_mp
+100:22 Weapon;0;1;Ibragim;m1carbine_mp
+100:27 D;0;1;allies;Ibragim;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+100:28 K;0;1;allies;Ibragim;0;3;axis;Max;ppsh_mp;105;MOD_HEAD_SHOT;head
+100:31 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+100:36 K;0;2;allies;Chelsea;0;3;axis;Max;ppsh_mp;105;MOD_HEAD_SHOT;head
+100:40 Weapon;0;3;Max;frag_grenade_american_mp
+100:46 Weapon;0;7;Vandal;m1carbine_mp
+100:53 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;right_hand
+100:53 D;0;3;axis;Max;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+100:54 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_hand
+100:54 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_lower
+100:54 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+100:54 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+100:54 K;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_upper
+100:55 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+100:55 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+100:55 Weapon;0;1;Ibragim;frag_grenade_german_mp
+100:55 K;0;3;axis;Max;0;1;allies;Ibragim;frag_grenade_american_mp;139;MOD_GRENADE_SPLASH;none
+100:57 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;29;MOD_PISTOL_BULLET;left_leg_upper
+100:57 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;28;MOD_PISTOL_BULLET;right_leg_upper
+100:57 D;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;27;MOD_PISTOL_BULLET;torso_lower
+100:58 K;0;2;allies;Chelsea;0;6;axis;Belosh59;PPS42_mp;24;MOD_PISTOL_BULLET;right_foot
+101:00 Weapon;0;1;Ibragim;frag_grenade_german_mp
+101:00 Weapon;0;1;Ibragim;ppsh_mp
+101:01 say;0;3;Max;)
+101:04 say;0;3;Max;bystro)
+101:05 Weapon;0;6;Belosh59;frag_grenade_german_mp
+101:05 Weapon;0;6;Belosh59;frag_grenade_american_mp
+101:08 say;0;7;Vandal;PLOTNO
+101:09 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+101:09 D;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;left_hand
+101:09 K;0;1;allies;Ibragim;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+101:12 Weapon;0;7;Vandal;frag_grenade_american_mp
+101:12 D;0;6;axis;Belosh59;0;4;allies;Slavon;ppsh_mp;87;MOD_PISTOL_BULLET;head
+101:13 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;90;MOD_PISTOL_BULLET;right_arm_upper
+101:13 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+101:14 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+101:14 K;0;7;axis;Vandal;0;4;allies;Slavon;ppsh_mp;35;MOD_PISTOL_BULLET;left_leg_lower
+101:16 K;0;6;axis;Belosh59;0;4;allies;Slavon;ppsh_mp;28;MOD_PISTOL_BULLET;torso_lower
+101:17 Weapon;0;3;Max;frag_grenade_german_mp
+101:17 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;33;MOD_PISTOL_BULLET;right_leg_lower
+101:18 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;33;MOD_PISTOL_BULLET;left_arm_upper
+101:18 D;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;32;MOD_PISTOL_BULLET;left_arm_upper
+101:18 K;0;8;allies;Vitalik;0;0;axis;Petro;ppsh_mp;31;MOD_PISTOL_BULLET;left_foot
+101:22 D;0;3;axis;Max;0;4;allies;Slavon;ppsh_mp;29;MOD_PISTOL_BULLET;torso_lower
+101:23 D;0;3;axis;Max;0;4;allies;Slavon;ppsh_mp;29;MOD_PISTOL_BULLET;right_leg_upper
+101:23 K;0;3;axis;Max;0;4;allies;Slavon;ppsh_mp;87;MOD_HEAD_SHOT;head
+101:42 say;0;7;Vandal;SHE
+101:42 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+101:43 D;0;7;axis;Vandal;0;2;allies;Chelsea;m1carbine_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+101:44 D;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;torso_upper
+101:44 K;0;2;allies;Chelsea;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+101:44 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+101:45 D;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+101:45 K;0;8;allies;Vitalik;0;6;axis;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_upper
+101:58 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+101:58 D;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_hand
+101:58 K;0;7;axis;Vandal;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;right_arm_upper
+101:58 say;0;7;Vandal;SHE V BOMBI ZIARAEM?
+102:00 D;0;4;allies;Slavon;0;3;axis;Max;SVT40_mp;45;MOD_RIFLE_BULLET;right_arm_lower
+102:00 D;0;4;allies;Slavon;0;3;axis;Max;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+102:00 K;0;4;allies;Slavon;0;3;axis;Max;SVT40_mp;45;MOD_RIFLE_BULLET;torso_lower
+102:06 D;0;0;axis;Petro;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;left_arm_upper
+102:06 D;0;0;axis;Petro;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+102:06 K;0;0;axis;Petro;0;1;allies;Ibragim;ppsh_mp;35;MOD_PISTOL_BULLET;torso_upper
+102:06 W;axis;0;Petro;0;Max;0;Belosh59;0;Vandal
+102:06 L;allies;0;Ibragim;0;Chelsea;0;Slavon;0;Vitalik
+102:16 ExitLevel: executed
+102:16 ShutdownGame:
+102:16 ------------------------------------------------------------
+102:16 ------------------------------------------------------------
+102:16 InitGame: \g_antilag\1\g_gametype\hq\gamename\Call of Duty 2\mapname\mp_dawnville\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+102:17 J;0;8;Vitalik
+102:17 J;0;7;Vandal
+102:17 J;0;6;Belosh59
+102:17 J;0;4;Slavon
+102:17 J;0;3;Max
+102:17 J;0;2;Chelsea
+102:17 J;0;1;Ibragim
+102:17 J;0;0;Petro
+102:21 Q;0;2;Chelsea
+102:28 say;0;6;Belosh59;YA SPAT
+102:35 K;0;4;allies;Slavon;0;6;allies;Belosh59;colt_mp;112;MOD_HEAD_SHOT;head
+102:37 Weapon;0;6;Belosh59;frag_grenade_american_mp
+102:44 K;0;3;axis;Max;0;3;axis;Max;frag_grenade_german_mp;186;MOD_GRENADE_SPLASH;none
+102:46 K;0;6;allies;Belosh59;0;6;allies;Belosh59;frag_grenade_american_mp;193;MOD_GRENADE_SPLASH;none
+102:54 say;0;6;Belosh59;сор слава
+103:00 ShutdownGame:
+103:00 ------------------------------------------------------------
+103:00 ------------------------------------------------------------
+103:00 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+103:01 J;0;0;Petro
+103:02 J;0;7;Vandal
+103:02 J;0;3;Max
+103:03 J;0;4;Slavon
+103:07 J;0;6;Belosh59
+103:09 J;0;1;Ibragim
+103:15 J;0;8;Vitalik
+103:23 ShutdownGame:
+103:23 ------------------------------------------------------------
+103:23 ------------------------------------------------------------
+103:23 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+103:24 J;0;8;Vitalik
+103:24 J;0;7;Vandal
+103:24 J;0;6;Belosh59
+103:24 J;0;4;Slavon
+103:24 J;0;3;Max
+103:24 J;0;1;Ibragim
+103:24 J;0;0;Petro
+104:00 A;0;8;allies;Vitalik;bomb_plant
+104:00 D;0;3;allies;Max;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+104:00 D;0;3;allies;Max;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:01 K;0;3;allies;Max;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:10 sayteam;0;4;Slavon;QUICKMESSAGE_FOLLOW_ME
+104:23 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;135;MOD_HEAD_SHOT;head
+104:24 D;0;7;axis;Vandal;0;6;allies;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+104:24 D;0;7;axis;Vandal;0;6;allies;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;torso_lower
+104:24 K;0;7;axis;Vandal;0;6;allies;Belosh59;PPS42_mp;35;MOD_PISTOL_BULLET;right_leg_upper
+104:26 D;0;6;allies;Belosh59;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+104:26 D;0;6;allies;Belosh59;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:27 K;0;6;allies;Belosh59;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+104:36 Weapon;0;4;Slavon;frag_grenade_german_mp
+104:40 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:41 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:41 K;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:45 D;0;4;axis;Slavon;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:45 D;0;4;axis;Slavon;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+104:46 K;0;4;axis;Slavon;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+104:46 W;allies;0;Ibragim;0;Max;0;Belosh59;0;Vitalik
+104:46 L;axis;0;Petro;0;Slavon;0;Vandal
+104:53 ShutdownGame:
+104:53 ------------------------------------------------------------
+104:53 ------------------------------------------------------------
+104:53 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+104:53 J;0;8;Vitalik
+104:53 J;0;7;Vandal
+104:53 J;0;6;Belosh59
+104:53 J;0;4;Slavon
+104:53 J;0;3;Max
+104:53 J;0;1;Ibragim
+104:53 J;0;0;Petro
+105:18 say;0;7;Vandal;vitalik pereidy
+105:40 A;0;8;allies;Vitalik;bomb_plant
+105:49 D;0;0;axis;Petro;0;6;allies;Belosh59;PPS42_mp;14;MOD_PISTOL_BULLET;left_leg_upper
+105:51 K;0;0;axis;Petro;0;1;allies;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;left_leg_upper
+105:52 K;0;6;allies;Belosh59;0;4;axis;Slavon;mp44_mp;120;MOD_HEAD_SHOT;head
+105:56 D;0;7;axis;Vandal;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+105:56 D;0;7;axis;Vandal;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+105:56 K;0;7;axis;Vandal;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+106:18 say;0;6;Belosh59;VSEM SPASIBO ZA IGRU
+106:25 say;0;6;Belosh59;DOBROP NOCHI
+106:30 say;0;7;Vandal;DAVAI
+106:35 Weapon;0;3;Max;frag_grenade_german_mp
+106:36 D;0;3;allies;Max;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+106:36 D;0;3;allies;Max;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+106:37 Q;0;6;Belosh59
+106:37 D;0;4;axis;Slavon;0;1;allies;Ibragim;frag_grenade_american_mp;83;MOD_GRENADE_SPLASH;none
+106:38 K;0;4;axis;Slavon;0;1;allies;Ibragim;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;right_leg_lower
+106:38 W;allies;0;Ibragim;0;Max;0;Vitalik
+106:38 L;axis;0;Petro;0;Slavon;0;Vandal
+106:40 K;0;3;allies;Max;;-1;world;;none;1921;MOD_EXPLOSIVE;none
+106:40 K;0;8;allies;Vitalik;;-1;world;;none;1424;MOD_EXPLOSIVE;none
+106:42 D;0;1;allies;Ibragim;;-1;world;;none;1;MOD_FALLING;none
+106:45 ShutdownGame:
+106:45 ------------------------------------------------------------
+106:45 ------------------------------------------------------------
+106:45 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+106:45 J;0;8;Vitalik
+106:45 J;0;7;Vandal
+106:45 J;0;4;Slavon
+106:45 J;0;3;Max
+106:45 J;0;1;Ibragim
+106:45 J;0;0;Petro
+107:21 K;0;7;axis;Vandal;0;1;allies;Ibragim;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+107:22 A;0;8;allies;Vitalik;bomb_plant
+107:29 D;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+107:29 D;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+107:29 K;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+107:30 K;0;0;axis;Petro;0;1;allies;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+107:30 W;allies;0;Ibragim;0;Max;0;Vitalik
+107:30 L;axis;0;Petro;0;Slavon;0;Vandal
+107:35 Weapon;0;3;Max;mp44_mp
+107:35 Weapon;0;3;Max;frag_grenade_german_mp
+107:37 ShutdownGame:
+107:37 ------------------------------------------------------------
+107:37 ------------------------------------------------------------
+107:37 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+107:37 J;0;8;Vitalik
+107:37 J;0;7;Vandal
+107:37 J;0;4;Slavon
+107:37 J;0;3;Max
+107:37 J;0;1;Ibragim
+107:37 J;0;0;Petro
+108:02 K;0;0;axis;Petro;0;3;allies;Max;mp44_mp;120;MOD_HEAD_SHOT;head
+108:09 Weapon;0;3;Max;frag_grenade_german_mp
+108:10 A;0;8;allies;Vitalik;bomb_plant
+108:10 D;0;3;allies;Max;0;7;axis;Vandal;frag_grenade_german_mp;86;MOD_GRENADE_SPLASH;none
+108:14 K;0;3;allies;Max;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+108:30 D;0;7;axis;Vandal;0;1;allies;Ibragim;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+108:40 D;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;90;MOD_PISTOL_BULLET;left_arm_upper
+108:40 K;0;1;allies;Ibragim;0;7;axis;Vandal;m1carbine_mp;45;MOD_PISTOL_BULLET;torso_lower
+108:47 K;0;7;axis;Vandal;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+109:02 D;0;4;axis;Slavon;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+109:03 D;0;4;axis;Slavon;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+109:03 K;0;4;axis;Slavon;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+109:03 W;allies;0;Ibragim;0;Max;0;Vitalik
+109:03 L;axis;0;Petro;0;Slavon;0;Vandal
+109:10 ShutdownGame:
+109:10 ------------------------------------------------------------
+109:10 ------------------------------------------------------------
+109:10 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+109:10 J;0;8;Vitalik
+109:10 J;0;7;Vandal
+109:10 J;0;4;Slavon
+109:10 J;0;3;Max
+109:10 J;0;1;Ibragim
+109:10 J;0;0;Petro
+109:37 D;0;7;axis;Vandal;;-1;world;;none;66;MOD_FALLING;none
+109:42 K;0;0;axis;Petro;0;1;allies;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+109:44 A;0;8;allies;Vitalik;bomb_plant
+109:52 D;0;8;allies;Vitalik;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+109:53 D;0;8;allies;Vitalik;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+109:53 K;0;8;allies;Vitalik;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+110:04 A;0;4;axis;Slavon;bomb_defuse
+110:04 W;axis;0;Petro;0;Slavon;0;Vandal
+110:04 L;allies;0;Ibragim;0;Max;0;Vitalik
+110:05 K;0;7;axis;Vandal;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+110:07 D;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+110:08 D;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+110:08 D;0;3;allies;Max;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_upper
+110:08 Weapon;0;3;Max;frag_grenade_german_mp
+110:08 K;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+110:11 ShutdownGame:
+110:11 ------------------------------------------------------------
+110:11 ------------------------------------------------------------
+110:11 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+110:12 J;0;8;Vitalik
+110:12 J;0;7;Vandal
+110:12 J;0;4;Slavon
+110:12 J;0;3;Max
+110:12 J;0;1;Ibragim
+110:12 J;0;0;Petro
+110:22 sayteam;0;4;Slavon;QUICKMESSAGE_MOVE_IN
+110:45 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_lower
+110:45 D;0;0;axis;Petro;0;8;allies;Vitalik;bren_mp;40;MOD_RIFLE_BULLET;torso_upper
+110:45 D;0;8;allies;Vitalik;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+110:46 D;0;8;allies;Vitalik;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+110:46 K;0;8;allies;Vitalik;0;4;axis;Slavon;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+110:46 K;0;4;axis;Slavon;0;3;allies;Max;mp44_mp;120;MOD_HEAD_SHOT;head
+110:54 K;0;0;axis;Petro;0;3;allies;Max;mp44_mp;40;MOD_RIFLE_BULLET;torso_lower
+110:59 K;0;7;axis;Vandal;0;1;allies;Ibragim;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+110:59 W;allies;0;Ibragim;0;Max;0;Vitalik
+110:59 L;axis;0;Petro;0;Slavon;0;Vandal
+111:02 Weapon;0;3;Max;frag_grenade_american_mp
+111:12 say;0;3;Max;spasibo za igru
+111:16 ExitLevel: executed
+111:16 ShutdownGame:
+111:16 ------------------------------------------------------------
+111:16 ------------------------------------------------------------
+111:16 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+111:17 J;0;8;Vitalik
+111:17 J;0;7;Vandal
+111:17 J;0;4;Slavon
+111:17 J;0;3;Max
+111:17 J;0;1;Ibragim
+111:17 J;0;0;Petro
+111:26 ShutdownGame:
+111:26 ------------------------------------------------------------
+111:26 ------------------------------------------------------------
+111:26 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+111:26 J;0;8;Vitalik
+111:26 J;0;7;Vandal
+111:26 J;0;4;Slavon
+111:26 J;0;3;Max
+111:26 J;0;1;Ibragim
+111:26 J;0;0;Petro
+111:28 Q;0;8;Vitalik
+111:47 say;0;3;Max;spasibo za igru! Dobroy nochi!
+111:52 say;0;7;Vandal;DAVAI
+111:57 Q;0;3;Max
+111:58 W;axis;0;Petro;0;Ibragim;0;Slavon;0;Vandal
+111:58 L;allies
+112:05 ShutdownGame:
+112:05 ------------------------------------------------------------
+112:05 ------------------------------------------------------------
+112:05 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+112:05 J;0;7;Vandal
+112:05 J;0;4;Slavon
+112:05 J;0;1;Ibragim
+112:05 J;0;0;Petro
+112:10 sayteam;0;1;Ibragim;QUICKMESSAGE_FOLLOW_ME
+112:18 sayteam;0;1;Ibragim;QUICKMESSAGE_MOVE_IN
+112:58 D;0;1;axis;Ibragim;;-1;world;;none;29;MOD_FALLING;none
+113:34 say;0;7;Vandal;IA TOZHE IDY
+113:39 say;0;1;Ibragim;davai
+113:44 Q;0;1;Ibragim
+113:50 say;0;7;Vandal;NASTUPNII RAZ
+113:54 Q;0;7;Vandal
+113:58 Q;0;4;Slavon
+116:12 ShutdownGame:
+116:12 ------------------------------------------------------------
+116:12 ------------------------------------------------------------
+116:12 InitGame: \g_antilag\1\g_gametype\sd\gamename\Call of Duty 2\mapname\mp_anzio\protocol\118\scr_friendlyfire\1\scr_killcam\1\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\CoD2\sv_maxclients\20\sv_maxPing\0\sv_maxRate\0\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+116:12 J;0;0;Petro
+119:28 ShutdownGame:
+119:28 ------------------------------------------------------------
