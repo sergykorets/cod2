@@ -7,4 +7,5 @@ Rails.application.routes.draw do
 
   get '/player/:id', to: 'users#info'
   get '/home', to: 'pages#index'
+  get '/refresh_statistics', to: 'pages#refresh_statistics'
 end

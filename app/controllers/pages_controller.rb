@@ -12,6 +12,7 @@ class PagesController < ApplicationController
         average_self_damage_per_round: user.average_self_damage_per_round,
         headshots: user.headshots,
         grenades: user.grenades,
+        team_damage_per_round: user.team_damage_per_round,
         average_kills_per_round: user.average_kills_per_round,
         kill_death_rate: user.kill_death_rate,
         rating: user.rating.round(2)
@@ -21,5 +22,10 @@ class PagesController < ApplicationController
       format.html { render :index }
       format.json {{success: true, users: @users}}
     end
+  end
+
+  def refresh_statistics
+    ParseService.start
+    redirect_to root_path
   end
 end

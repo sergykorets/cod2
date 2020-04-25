@@ -379,6 +379,9 @@
 .grenades::after {
   content: "Середня к-ть урону гранатою за раунд";
 }
+.team_damage_per_round::after {
+  content: "Середня к-ть урону напарників за раунд";
+}
 
 .image {
   width: 86%;

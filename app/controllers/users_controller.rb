@@ -16,8 +16,10 @@ class UsersController < ApplicationController
         average_suicides_per_round: user.average_suicides_per_round,
         average_self_damage_per_round: user.average_self_damage_per_round,
         grenades: user.grenades,
+        team_damage_per_round: user.team_damage_per_round,
         rating: user.rating,
         favorite_body_targets: user.favorite_body_targets.sort.to_h,
+        nicknames: user.nicknames.pluck(:name)
 
     }
   end

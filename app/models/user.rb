@@ -32,12 +32,12 @@ class User < ApplicationRecord
   end
 
   def average_damage
-    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade)
+    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: [:grenade, :launcher])
     actions.any? ? (actions.sum(:damage).to_d / actions.count.to_d).round(2) : 0
   end
 
   def favorite_body_targets
-    demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade).group(:action_damagetype).count
+    demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: [:grenade, :launcher]).group(:action_damagetype).count
   end
 
   def favorite_body_target
@@ -51,7 +51,7 @@ class User < ApplicationRecord
   end
 
   def headshots
-    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: :grenade).count.to_d
+    actions = demaging_actions.where(action_type: [:kill, :damage]).where.not(action_damagetype: [:grenade, :launcher, :melee]).count.to_d
     headshots = demaging_actions.where(action_type: [:kill, :damage], action_damagetype: :head).count.to_d
     ((headshots / actions) * 100).round(2)
   end
@@ -86,8 +86,14 @@ class User < ApplicationRecord
     ((actions / plays)).round(2)
   end
 
+  def team_damage_per_round
+    actions = demaging_actions.where(action_type: :team_damage).sum(:damage).to_d
+    plays = rounds.where.not(round_type: :dm).count.to_d
+    ((actions / plays)).round(2)
+  end
+
   def rating
-    average_damage + headshots*5 + kill_death_rate/2 + average_kills_per_round*5 + rounds.count/10 + grenades/5 - average_suicides_per_round - average_self_damage_per_round || 0
+    average_damage + headshots*5 + kill_death_rate/2 + average_kills_per_round*5 + rounds.count/10 + grenades/5 - average_suicides_per_round - average_self_damage_per_round - team_damage_per_round || 0
   end
 
 end

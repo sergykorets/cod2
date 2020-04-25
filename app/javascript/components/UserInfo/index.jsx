@@ -53,9 +53,16 @@ export default class UserInfo extends React.Component {
                         <div className="rela-block profile-card-stats">
                           <div className="floated profile-stat average_self_damage_per_round">{this.state.user.average_self_damage_per_round}<br/></div>
                           <div className="floated profile-stat grenades">{this.state.user.grenades}<br/></div>
+                          <div className="floated profile-stat team_damage_per_round">{this.state.user.team_damage_per_round}<br/></div>
                         </div>
                       </div>
                     </div>
+                  </div>
+                  <div className='col-12 text-center'>
+                    <h2>Нікнейми</h2>
+                    {this.state.user.nicknames.map((name, i) =>
+                      <span key={i}>{`${name}, `}</span>
+                    )}
                   </div>
                 </div>
               </div>
@@ -65,9 +72,12 @@ export default class UserInfo extends React.Component {
               <h5 className="mb-2">Всього попадань: {this.totalHits()}</h5>
               <h6 className="mb-4">Удар прикладом: {(this.state.user.favorite_body_targets.melee * 100 / this.totalHits()).toFixed(2)}%</h6>
               <div className='human-body text-center'>
-                {Object.keys(this.state.user.favorite_body_targets).filter(item => item !== 'melee').map((target, i) => {
+                {Object.keys(this.state.user.favorite_body_targets).map((target, i) => {
                   return (
-                    <span key={i} className={`body-parts ${target}`}>{(this.state.user.favorite_body_targets[target] * 100 / this.totalHits()).toFixed(2)}%</span>
+                    <Fragment>
+                      { (target !== 'melee') && (target !== 'launcher') &&
+                        <span key={i} className={`body-parts ${target}`}>{(this.state.user.favorite_body_targets[target] * 100 / this.totalHits()).toFixed(2)}%</span>}
+                    </Fragment>
                   )
                 })}
               </div>

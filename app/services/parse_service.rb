@@ -4,6 +4,7 @@ class ParseService
     File.open("#{Rails.root}/games_mp.log").each_with_index do |line, i|
       next if i < last_line
       puts line
+      puts i
       line.encode!('UTF-8', 'UTF-8', :invalid => :replace)
       if line.include? "InitGame"
         scanned = line.scan(/[\w'-]+/)
@@ -14,6 +15,22 @@ class ParseService
         location = scanned[location_index + 1]
         time_string_start = scanned.first(2).join(':')
         Round.create(time_string_start: time_string_start, location: location, round_type: round_type)
+      elsif line.include?("J;0;") || line.include?("Q;0;")
+        scanned = line.split(';')
+        p scanned
+        time_string = scanned.first.split(' ').first
+        action_type = scanned.first.split(' ').last == 'J' ? :join : :quit
+        damaging_user_id = if Nickname.find_by_name(scanned.last.strip)
+          Nickname.find_by_name(scanned.last.strip).user_id
+        else
+          user = User.new(email: "#{scanned.last.strip}@user.com", first_name: scanned.last.strip, last_name: '-', password: '11111111',
+                         password_confirmation: '11111111', role: :player)
+          if user.save
+            user.nicknames.create(name: scanned.last.strip)
+            user.id
+          end
+        end
+        Action.create(action_type: action_type, damaging_user_id: damaging_user_id, time_string: time_string, round_id: Round.last.id)
       elsif line.include?('D;0;') || line.include?('K;0;')
         scanned = line.split(';')
         p scanned
@@ -38,39 +55,48 @@ class ParseService
           end
         end
         damage = scanned[-3]
-        if scanned.last.strip != 'none'
-          action_type = scanned.first.include?('D') ? :damage : :kill
+        action_type = scanned.first.include?('D') ? :damage : :kill
+        weapon_id = Weapon.find_by_name(scanned[9].downcase)&.id
+        time_string = scanned.first.split(' ').first
+        action_damagetype = scanned.last.strip
+        team_damage = !Round.last.dm? && scanned[3] == scanned[7] && scanned[4] != scanned[8]
+        if scanned[-2] == 'MOD_FALLING'
+          Action.create(action_type: :self_damage, damaged_user_id: damaged_user_id,
+                        action_damagetype: :other, time_string: time_string,
+                        damage: damage, round_id: Round.last.id)
+        elsif scanned[-2] == 'MOD_SUICIDE'
+          Action.create(action_type: :suicide, damaged_user_id: damaged_user_id,
+                        action_damagetype: :other, time_string: time_string, round_id: Round.last.id)
+        elsif scanned[-2] == 'MOD_GRENADE_SPLASH'
           weapon_id = Weapon.find_by_name(scanned[9].downcase).id
-          time_string = scanned.first.split(' ').first
-          action_damagetype = scanned.last.strip
-          Action.create(action_type: action_type, damaged_user_id: damaged_user_id, damaging_user_id: damaging_user_id,
-                        weapon_id: weapon_id, action_damagetype: scanned[-2] == 'MOD_MELEE' ? :melee : action_damagetype,
-                        time_string: time_string, damage: damage, round_id: Round.last.id)
-        else
-          time_string = scanned.first.split(' ').first
-          if scanned[-2] == 'MOD_FALLING'
-            Action.create(action_type: :self_damage, damaged_user_id: damaged_user_id,
-                          action_damagetype: :other, time_string: time_string,
-                          damage: damage, round_id: Round.last.id)
-          elsif scanned[-2] == 'MOD_SUICIDE'
-            Action.create(action_type: :suicide, damaged_user_id: damaged_user_id,
-                          action_damagetype: :other, time_string: time_string, round_id: Round.last.id)
-          elsif scanned[-2] == 'MOD_GRENADE_SPLASH'
-            weapon_id = Weapon.find_by_name(scanned[9].downcase).id
-            if scanned[4] == scanned[8]
-              Action.create(action_type: scanned.first.include?('D') ? :self_damage : :suicide, damaged_user_id: damaged_user_id,
-                            damage: damage, weapon_id: weapon_id, action_damagetype: :grenade, time_string: time_string,
-                            round_id: Round.last.id)
-            else
-              Action.create(action_type: scanned.first.include?('D') ? :damage : :kill, damaged_user_id: damaged_user_id,
-                            damaging_user_id: damaging_user_id, action_damagetype: :grenade, time_string: time_string,
-                            damage: damage, weapon_id: weapon_id, round_id: Round.last.id)
-            end
-          elsif scanned[-2] == 'MOD_EXPLOSIVE'
+          if scanned[4] == scanned[8]
             Action.create(action_type: scanned.first.include?('D') ? :self_damage : :suicide, damaged_user_id: damaged_user_id,
-                          action_damagetype: :explosive, time_string: time_string,
-                          damage: damage, round_id: Round.last.id)
+                          damage: damage, weapon_id: weapon_id, action_damagetype: :grenade, time_string: time_string,
+                          round_id: Round.last.id)
+          else
+            Action.create(action_type: team_damage ? :team_damage : (scanned.first.include?('D') ? :damage : :kill), damaged_user_id: damaged_user_id,
+                          damaging_user_id: damaging_user_id, action_damagetype: :grenade, time_string: time_string,
+                          damage: damage, weapon_id: weapon_id, round_id: Round.last.id)
           end
+        elsif scanned[-2] == 'MOD_EXPLOSIVE'
+          Action.create(action_type: scanned.first.include?('D') ? :self_damage : :suicide, damaged_user_id: damaged_user_id,
+                        action_damagetype: :explosive, time_string: time_string,
+                        damage: damage, round_id: Round.last.id)
+        elsif scanned[-2] == 'MOD_MELEE'
+          Action.create(action_type: action_type, damaged_user_id: damaged_user_id, damaging_user_id: damaging_user_id,
+                        weapon_id: weapon_id, action_damagetype: :melee,
+                        time_string: time_string, damage: damage, round_id: Round.last.id)
+        elsif scanned[-2] == 'MOD_PROJECTILE_SPLASH' || scanned[-2] == 'MOD_PROJECTILE'
+          Action.create(action_type: team_damage ? :team_damage : action_type, damaged_user_id: damaged_user_id, damaging_user_id: damaging_user_id,
+                        weapon_id: weapon_id, action_damagetype: :launcher,
+                        time_string: time_string, damage: damage, round_id: Round.last.id)
+        elsif scanned[-2] == 'MOD_TRIGGER_HURT'
+          Action.create(action_type: :self_damage, damaged_user_id: damaged_user_id,
+                        action_damagetype: :other, time_string: time_string, damage: damage, round_id: Round.last.id)
+        else
+          Action.create(action_type: team_damage ? :team_damage : action_type, damaged_user_id: damaged_user_id, damaging_user_id: damaging_user_id,
+                        weapon_id: weapon_id, action_damagetype: action_damagetype,
+                        time_string: time_string, damage: damage, round_id: Round.last.id)
         end
       elsif line.include? "ShutdownGame"
         scanned = line.scan(/[\w'-]+/)
