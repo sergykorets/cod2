@@ -1,7 +1,6 @@
 class UsersController < ApplicationController
 
   def info
-    @admin = current_user&.admin?
     user = User.find_by(id: params[:id])
     @info = {
         name: user.name,
