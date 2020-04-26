@@ -1,6 +1,6 @@
 class ParseService
   def self.start
-    session = GoogleDrive::Session.from_config(Rails.env.development? ? 'google-drive-json.json' : ENV['DRIVE_CREDENTIALS'])
+    session = GoogleDrive::Session.from_config(Rails.env.development? ? 'google-drive-json.json' : ENV['GOOGLE_APPLICATION_CREDENTIALS'])
     file = session.file_by_title("games_mp.log")
     file.download_to_file("#{Rails.root}/games_mp.log")
     last_line = Setting.first.last_line || 0
