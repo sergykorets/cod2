@@ -50,6 +50,7 @@ gem 'paper_trail-association_tracking'
 gem 'aws-sdk', '~> 2.3'
 gem 'kaminari'
 gem 'fog-aws'
+gem 'google_drive'
 
 group :development, :test do
   gem 'pry-rails'

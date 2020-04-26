@@ -1,5 +1,8 @@
 class ParseService
   def self.start
+    session = GoogleDrive::Session.from_config(Rails.env.development? ? 'google-drive-json.json' : ENV['DRIVE_CREDENTIALS'])
+    file = session.file_by_title("games_mp.log")
+    file.download_to_file("#{Rails.root}/games_mp.log")
     last_line = Setting.first.last_line || 0
     File.open("#{Rails.root}/games_mp.log").each_with_index do |line, i|
       next if i < last_line
