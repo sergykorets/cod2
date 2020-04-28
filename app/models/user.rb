@@ -13,7 +13,9 @@ class User < ApplicationRecord
   #has_many :demaging_users, class_name: 'User', through: :demaging_actions
   has_many :weapons, through: :demaging_actions
   has_many :nicknames
-  has_many :rounds, -> { distinct }, through: :demaging_actions
+  has_many :round_actions
+  has_many :rounds, -> { distinct }, through: :round_actions
+
 
   enum role: [:player, :admin]
 
@@ -94,6 +96,38 @@ class User < ApplicationRecord
 
   def rating
     average_damage + headshots*5 + kill_death_rate/2 + average_kills_per_round*5 + rounds.count/10 + grenades/5 - average_suicides_per_round - average_self_damage_per_round - team_damage_per_round || 0
+  end
+
+  def total_in_game
+    times = []
+    rounds.each_with_index do |round, index|
+      time_start = round.time_start
+      time_end = round.time_end
+      has_quit_actions = round.round_actions.quit.any?
+      if has_quit_actions
+        hash = {
+            join: [],
+            quit: []
+        }
+        round.round_actions.each do |round_action|
+          hash[round_action.round_action_type] << round_action.time
+        end
+        round_times = []
+        if hash[:join].size == hash[:quit].size
+          hash[:join].size.times do |i|
+            round_times << hash[:quit][i] - hash[:join][i]
+          end
+        else
+          hash[:quit] << time_end
+          hash[:join].size.times do |i|
+            round_times << hash[:quit][i] - hash[:join][i]
+          end
+        end
+        times << round_times.sum
+      else
+        times << time_end - time_start - round.round_actions.join.first.time
+      end
+    end
   end
 
 end

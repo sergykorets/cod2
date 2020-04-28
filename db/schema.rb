@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20200425094019) do
+ActiveRecord::Schema.define(version: 20200428093747) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,11 +21,11 @@ ActiveRecord::Schema.define(version: 20200425094019) do
     t.integer "damaging_user_id"
     t.integer "weapon_id"
     t.integer "action_damagetype"
-    t.string "time_string", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "damage"
     t.integer "round_id"
+    t.integer "time"
     t.index ["damaged_user_id"], name: "index_actions_on_damaged_user_id"
     t.index ["damaging_user_id"], name: "index_actions_on_damaging_user_id"
     t.index ["round_id"], name: "index_actions_on_round_id"
@@ -35,16 +35,29 @@ ActiveRecord::Schema.define(version: 20200425094019) do
   create_table "nicknames", force: :cascade do |t|
     t.integer "user_id"
     t.string "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
     t.index ["user_id"], name: "index_nicknames_on_user_id"
   end
 
+  create_table "round_actions", force: :cascade do |t|
+    t.integer "user_id"
+    t.integer "round_id"
+    t.integer "round_action_type"
+    t.integer "time"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["round_id"], name: "index_round_actions_on_round_id"
+    t.index ["user_id"], name: "index_round_actions_on_user_id"
+  end
+
   create_table "rounds", force: :cascade do |t|
-    t.string "time_string_start"
-    t.string "time_string_end"
     t.string "location"
     t.integer "round_type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "time_start"
+    t.integer "time_end"
   end
 
   create_table "settings", force: :cascade do |t|
