@@ -22,7 +22,7 @@ class ParseService
         scanned = line.split(';')
         p scanned
         time = scanned.first.split(' ').first
-        action_type = scanned.first.split(' ').last == 'J' ? :join : :quit
+        action_type = scanned.first.split(' ').last == 'J' ? :connect : :quit
         user_id = if Nickname.find_by_name(scanned.last.strip)
           Nickname.find_by_name(scanned.last.strip).user_id
         else

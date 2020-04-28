@@ -85,18 +85,21 @@ export default class Home extends React.Component {
               <th><h1>Попадання</h1></th>
               <th><h1>Зброя</h1></th>
               <th onClick={() => this.onSort('headshots')}><h1>Хеди</h1></th>
-              <th onClick={() => this.onSort('average_kills_per_round')}><h1>Вбивств/раунд</h1></th>
+              <th onClick={() => this.onSort('average_kills_per_round')}><h1>Вбивств/хв</h1></th>
               <th onClick={() => this.onSort('kill_death_rate')}><h1>Вбивств/смертей</h1></th>
               <th onClick={() => this.onSort('average_suicides_per_round')}><h1>Суіцид</h1></th>
               <th onClick={() => this.onSort('average_self_damage_per_round')}><h1>Самоурон</h1></th>
               <th onClick={() => this.onSort('team_damage_per_round')}><h1>Урон напарників</h1></th>
               <th onClick={() => this.onSort('grenades')}><h1>Урон гранатою</h1></th>
-              <th onClick={() => this.onSort('rounds')}><h1>Раунди</h1></th>
+              <th onClick={() => this.onSort('rounds')}><h1>Ігровий час</h1></th>
               <th onClick={() => this.onSort('rating')}><h1>Рейтинг</h1></th>
             </tr>
             </thead>
             <tbody>
             { this.state.users.map((u, index) => {
+              const date = new Date(null);
+              date.setSeconds(u.rounds);
+              const result = date.toISOString().substr(11, 8);
               return (
                 <tr key={index}>
                   <td><a href={`/player/${u.id}`}>{u.name}</a></td>
@@ -110,7 +113,7 @@ export default class Home extends React.Component {
                   <td>{u.average_self_damage_per_round}</td>
                   <td>{u.team_damage_per_round}</td>
                   <td>{u.grenades}</td>
-                  <td>{u.rounds}</td>
+                  <td>{result}</td>
                   <td>{u.rating}</td>
                 </tr>
               )

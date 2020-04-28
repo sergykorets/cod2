@@ -58,10 +58,10 @@ class User < ApplicationRecord
     ((headshots / actions) * 100).round(2)
   end
 
-  def average_kills_per_round
-    actions = demaging_actions.joins(:round).where(actions: {action_type: :kill}).where.not(rounds: {round_type: :sd}).count.to_d
-    plays = rounds.where.not(round_type: :sd).count.to_d
-    (actions / plays).round(2)
+  def average_kills_per_minute
+    actions = demaging_actions.where(action_type: :kill).count.to_d
+    total_minutes = total_in_game.to_d / 60.0
+    (actions / total_minutes).round(2)
   end
 
   def kill_death_rate
@@ -95,39 +95,33 @@ class User < ApplicationRecord
   end
 
   def rating
-    average_damage + headshots*5 + kill_death_rate/2 + average_kills_per_round*5 + rounds.count/10 + grenades/5 - average_suicides_per_round - average_self_damage_per_round - team_damage_per_round || 0
+    average_damage + headshots*5 + kill_death_rate/2 + average_kills_per_minute*100 + total_in_game/10000 + grenades/5 - average_suicides_per_round - average_self_damage_per_round - team_damage_per_round || 0
   end
 
   def total_in_game
     times = []
-    rounds.each_with_index do |round, index|
-      time_start = round.time_start
+    rounds.each do |round|
       time_end = round.time_end
-      has_quit_actions = round.round_actions.quit.any?
+      has_quit_actions = round.round_actions.where(user_id: id).quit.any?
       if has_quit_actions
-        hash = {
-            join: [],
-            quit: []
-        }
-        round.round_actions.each do |round_action|
-          hash[round_action.round_action_type] << round_action.time
+        hash = { connect: [], quit: [] }.with_indifferent_access
+        actions = round.round_actions.where(user_id: id)
+        actions.each_with_index do |round_action, i|
+          if i > 0 && actions[i-1].round_action_type != round_action.round_action_type
+            hash[round_action.round_action_type] << round_action.time
+          end
         end
         round_times = []
-        if hash[:join].size == hash[:quit].size
-          hash[:join].size.times do |i|
-            round_times << hash[:quit][i] - hash[:join][i]
-          end
-        else
-          hash[:quit] << time_end
-          hash[:join].size.times do |i|
-            round_times << hash[:quit][i] - hash[:join][i]
-          end
+        hash[:quit] << time_end if hash[:connect].size > hash[:quit].size
+        hash[:connect].size.times do |i|
+          round_times << hash[:quit][i] - hash[:connect][i]
         end
         times << round_times.sum
       else
-        times << time_end - time_start - round.round_actions.join.first.time
+        times << time_end - round.round_actions.connect.first.time
       end
     end
+    times.sum
   end
 
 end
