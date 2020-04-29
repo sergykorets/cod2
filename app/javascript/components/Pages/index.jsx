@@ -1,4 +1,5 @@
 import React, {Fragment} from 'react';
+import moment from 'moment';
 import { Modal, ModalHeader, FormGroup, Label, Input, ButtonToggle } from 'reactstrap';
 import {NotificationContainer, NotificationManager} from 'react-notifications';
 
@@ -73,6 +74,7 @@ export default class Home extends React.Component {
   };
 
   render() {
+    console.log(this.state)
     return (
       <Fragment>
         <NotificationContainer/>
@@ -113,7 +115,7 @@ export default class Home extends React.Component {
                   <td>{u.average_self_damage_per_round}</td>
                   <td>{u.team_damage_per_round}</td>
                   <td>{u.grenades}</td>
-                  <td>{result}</td>
+                  <td>{moment.duration(u.rounds * 1000).humanize()}</td>
                   <td>{u.rating}</td>
                 </tr>
               )

@@ -109,6 +109,7 @@ class ParseService
       end
     end
     Setting.first.update(last_line: File.foreach("#{Rails.root}/games_mp.log").inject(0) {|c, line| c+1})
+    self.update_users_stats
   end
 
   def self.get_nicknames
@@ -122,6 +123,26 @@ class ParseService
         User.admin.first.nicknames.create(name: scanned[4])
         User.admin.first.nicknames.create(name: scanned[8])
       end
+    end
+  end
+
+  def self.update_users_stats
+    User.where.not(role: :admin).each do |user|
+      user.stats = {
+          average_damage: user.average_damage,
+          favorite_body_targets: user.favorite_body_targets,
+          favorite_body_target: user.favorite_body_target,
+          favorite_weapon: user.favorite_weapon,
+          headshots: user.headshots,
+          average_kills_per_minute: user.average_kills_per_minute,
+          kill_death_rate: user.kill_death_rate,
+          average_suicides_per_round: user.average_suicides_per_round,
+          average_self_damage_per_round: user.average_self_damage_per_round,
+          grenades: user.grenades,
+          team_damage_per_round: user.team_damage_per_round,
+          total_in_game: user.total_in_game
+      }
+      user.save
     end
   end
 end
