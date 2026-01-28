@@ -38,7 +38,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 #
 # gem 'pry'
-gem "mimemagic"
+gem "mimemagic", github: "mimemagicrb/mimemagic", tag: "v0.3.10"
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 gem 'devise'
@@ -78,3 +78,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "execjs"
 gem "dockerfile-rails", ">= 1.5", :group => :development
+
